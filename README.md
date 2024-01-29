@@ -4,7 +4,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/network)
 [![GitHub issues](https://img.shields.io/github/issues/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/pulls)
-[![License](https://img.shields.io/github/license/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/Lets-code-with-us/DSA-Cracker-?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/commits/main)
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/Lets-code-with-us/DSA-Cracker-/CI?style=flat-square)](https://github.com/Lets-code-with-us/DSA-Cracker-/actions)
