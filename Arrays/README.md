@@ -15,7 +15,8 @@ Follow these steps to contribute to this project:
 9. :heavy_check_mark: Commit your changes with a meaningful commit message.
 10. :link: Update the main README in the Arrays folder with a link to your solution.
 11. :arrow_heading_up: Open a pull request.
-12. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
+12. Request for the review from [Dhruva Bhat](https://github.com/dhruvabhat24)
+13. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
 
 Happy coding! :rocket:
 
