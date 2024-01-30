@@ -13,7 +13,7 @@ Follow these steps to contribute to this project:
 7. :memo: Create a README file in this new folder.
 8. :pencil2: In the README, explain your code and include a screenshot of the accepted answer.
 9. :heavy_check_mark: Commit your changes with a meaningful commit message.
-10. :link: Update the main README in the Arrays folder with a link to your solution. Use the appropriate emoji to indicate the language of your solution.
+10. :link: Update the main README in the Arrays folder with a link to your solution.
 11. :arrow_heading_up: Open a pull request.
 12. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
 
