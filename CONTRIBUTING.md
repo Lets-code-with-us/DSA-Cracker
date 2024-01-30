@@ -8,4 +8,5 @@
 7. File 1: Readme file
 8. Inside the readme file add question details and approach
 9.  Commit the file and create a pull request
-10.  Wait for the review 
+10.  Attach the screenshot the status of the problem (Solved or not) with performance status
+11.  Wait for the review 
