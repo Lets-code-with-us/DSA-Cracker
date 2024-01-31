@@ -19,6 +19,9 @@ Follow these steps to contribute to this project:
 
 Happy coding! :rocket:
 
+<p align="center">
+  <h1>Easy Problems</h1>
+</p>
 | Problem title | Java Solution | Python Solution | CPP Solution | Js Solution |  Platform  |
 | ------------- | ------------- | --------------- | ------------ | ----------- |  ----------- |
 | [Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=School,Easy&sortBy=difficulty)  |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker-/blob/main/Arrays/Java/Palindromic%20Array/Palindromic%20Array.java)           |  -              |   -    |   -  |  Geeks For  Geeks  |
