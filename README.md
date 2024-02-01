@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Avinash Singh
 - GitHub: [Avinash Singh](https://github.com/avinash201199)
-- LinkedIn: [Avinash Singh]([https://twitter.com/JohnDoe](https://www.linkedin.com/in/avinash-singh-071b79175/))
+- LinkedIn: [Avinash Singh]([https://twitter.com/JohnDoe](https://www.linkedin.com/in/avinash-singh-071b79175/)
 
 ### KARAN RANA
 - GitHub: [KARAN RANA](https://github.com/karantec)
