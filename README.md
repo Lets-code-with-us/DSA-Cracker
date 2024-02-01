@@ -72,12 +72,13 @@ This project is licensed under the [MIT License](LICENSE).
 - GitHub: [Avinash Singh](https://github.com/avinash201199)
 - LinkedIn: [Avinash Singh](https://www.linkedin.com/in/avinash-singh-071b79175/)
 
-### KARAN RANA
-- GitHub: [KARAN RANA](https://github.com/karantec)
 ## Maintainer
 
 ### Dhruva Bhat 
 - GitHub: [Dhruva Bhat]([https://github.com/JaneSmith](https://github.com.dhruvabhat24)
 - Linkedin: [Dhruva Bhat](https://www.linkedin.com/in/dhruvabhatsn/)
+
+### KARAN RANA
+- GitHub: [KARAN RANA](https://github.com/karantec)
 
 
