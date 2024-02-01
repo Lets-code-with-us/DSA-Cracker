@@ -17,6 +17,8 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 - [Contributing](#contributing)
 - [Badges](#badges)
 - [License](#license)
+- [Top Contributors](#top-contributors)
+- [Repository Owners and maintainers](repository-owner-and-maintainers)
 
 ## Introduction
 DSA Cracker is designed to help individuals enhance their skills in data structures and algorithms. Whether you are a beginner or an experienced programmer, this repository provides a curated collection of problems from various platforms to help you practice and improve your problem-solving skills.
@@ -53,3 +55,30 @@ Here are some badges representing the status of the repository:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Top Contributors
+| Rank | Profile Image | Contributor Name | Questions Solved |
+|------|---------------|-------------------|------------------|
+| 1    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 4              |
+| 2    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1               |
+<!--| 3    | <img src="link_to_image_3" alt="Profile Image 3" width="50"/> | Bob Johnson      | 80               |
+| 4    | <img src="link_to_image_4" alt="Profile Image 4" width="50"/> | Alice Brown      | 75               |
+| 5    | <img src="link_to_image_5" alt="Profile Image 5" width="50"/> | Chris Wilson     | 70               | -->
+# Repository Owner and Maintainer
+
+## Repository Owner
+
+### Avinash Singh
+- GitHub: [Avinash Singh](https://github.com/avinash201199)
+- LinkedIn: [Avinash Singh](https://www.linkedin.com/in/avinash-singh-071b79175/)
+
+## Maintainer
+
+### Dhruva Bhat 
+- GitHub: [Dhruva Bhat](https://github.com.dhruvabhat24)
+- Linkedin: [Dhruva Bhat](https://www.linkedin.com/in/dhruvabhatsn/)
+
+### KARAN RANA
+- GitHub: [KARAN RANA](https://github.com/karantec)
+
+
