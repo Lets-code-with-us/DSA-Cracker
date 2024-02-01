@@ -13,6 +13,7 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 ## Table of Contents
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
+- [Resiurces](#resources)
 - [Contributing](#contributing)
 - [Badges](#badges)
 - [License](#license)
@@ -23,11 +24,20 @@ DSA Cracker is designed to help individuals enhance their skills in data structu
 ## Folder Structure
 The repository is organized into folders based on different data structures. Each folder contains problems related to that specific data structure. For example:
 - `Array`: Problems related to arrays.
+- `String`: Problems related to strings.
 - `LinkedList`: Problems related to linked lists.
 - `Queue`: Problems related to queues.
 - `Stack`: Problems related to stacks.
 
 Feel free to contribute by adding more problems, solutions, or improving existing ones.
+
+## Resources
+1. [DSA Cheet Sheet](https://drive.google.com/file/d/1-3JvYnYicGRvNxCQgu-5Ou8WlA1fB7Ik/view?usp=drive_link)
+2. [DSA using Python](https://drive.google.com/file/d/1V7Vd6I_w7yW8pTTHorRMwATcxwNioNsY/view?usp=drive_link)
+3. [DSA Problem Sheet](https://drive.google.com/file/d/1lO17jl1nJ6XGC6S_JobJ8-0v9RGsAwk6/view?usp=drive_link)
+4. [Complete Resource of DSA](https://drive.google.com/file/d/1uvQy3xNg48sJ1nFClwDZiNUBoqd8Noyd/view?usp=drive_link)
+5. [DSA challenge](https://drive.google.com/file/d/1cWiE00o6qZgINsSDqlbWWKYkB7xhdbTo/view?usp=drive_link)
+6. [DSA Ready Reckoner](https://drive.google.com/file/d/1G-AQ3nr2CWC4Ux2lPZkwvou4pI6Ndz6l/view?usp=drive_link)
 
 ## Contributing
 We welcome contributions from the community. If you would like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
