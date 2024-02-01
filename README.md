@@ -38,6 +38,8 @@ Feel free to contribute by adding more problems, solutions, or improving existin
 4. [Complete Resource of DSA](https://drive.google.com/file/d/1uvQy3xNg48sJ1nFClwDZiNUBoqd8Noyd/view?usp=drive_link)
 5. [DSA challenge](https://drive.google.com/file/d/1cWiE00o6qZgINsSDqlbWWKYkB7xhdbTo/view?usp=drive_link)
 6. [DSA Ready Reckoner](https://drive.google.com/file/d/1G-AQ3nr2CWC4Ux2lPZkwvou4pI6Ndz6l/view?usp=drive_link)
+7. [Top 50 Data Structure, Algorithms, and Coding Interview  Program Questions](https://docs.google.com/document/d/1KJpARE69PrLluHwknQcfpirbDAN53SjIfUrYjILy4bk/edit?usp=sharing)
+8. [𝐋𝐞𝐚𝐫𝐧 𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐬 & 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐟𝐨𝐫 𝐅𝐫𝐞𝐞](https://docs.google.com/document/d/1zGHTF0sN2VLz1e6ZxEPHtK34TNV0QzC8LmLFHvAF58o/edit?usp=sharing)
 
 ## Contributing
 We welcome contributions from the community. If you would like to contribute, please follow our [Contributing Guidelines](CONTRIBUTING.md).
