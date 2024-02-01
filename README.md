@@ -75,7 +75,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Maintainer
 
 ### Dhruva Bhat 
-- GitHub: [Dhruva Bhat]([https://github.com/JaneSmith](https://github.com.dhruvabhat24)
+- GitHub: [Dhruva Bhat](https://github.com.dhruvabhat24)
 - Linkedin: [Dhruva Bhat](https://www.linkedin.com/in/dhruvabhatsn/)
 
 ### KARAN RANA
