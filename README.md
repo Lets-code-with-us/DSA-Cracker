@@ -13,7 +13,7 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 ## Table of Contents
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
-- [Resiurces](#resources)
+- [Resources](#resources)
 - [Contributing](#contributing)
 - [Badges](#badges)
 - [License](#license)
