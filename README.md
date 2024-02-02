@@ -59,8 +59,9 @@ This project is licensed under the [MIT License](LICENSE).
 ## Top Contributors
 | Rank | Profile Image | Contributor Name | Questions Solved |
 |------|---------------|-------------------|------------------|
-| 1    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 4              |
-| 2    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1               |
+| 1    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
+| 2    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 2 |
+| 3    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1               |
 <!--| 3    | <img src="link_to_image_3" alt="Profile Image 3" width="50"/> | Bob Johnson      | 80               |
 | 4    | <img src="link_to_image_4" alt="Profile Image 4" width="50"/> | Alice Brown      | 75               |
 | 5    | <img src="link_to_image_5" alt="Profile Image 5" width="50"/> | Chris Wilson     | 70               | -->

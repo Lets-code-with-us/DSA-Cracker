@@ -13,7 +13,6 @@ Follow these steps to contribute to the "Problems on Strings" project:
 9. ✔️ **Commit your changes with a meaningful commit message.**
 10. 🔗 **Update the main README in the Strings folder with a link to your solution.**
 11. ⤴️ **Open a pull request.**
-12. **Request for the review from [Maintainers](*)**
 13. ⏳ **Wait for your pull request to be reviewed.**
 
 **Happy coding! 🚀**

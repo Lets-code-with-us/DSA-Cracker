@@ -15,8 +15,7 @@ Follow these steps to contribute to this project:
 9. :heavy_check_mark: Commit your changes with a meaningful commit message.
 10. :link: Update the main README in the Arrays folder with a link to your solution.
 11. :arrow_heading_up: Open a pull request.
-12. Request for the review from [Dhruva Bhat](https://github.com/dhruvabhat24)
-13. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
+12. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
 
 Happy coding! :rocket:
 
@@ -27,7 +26,7 @@ Happy coding! :rocket:
 | Problem title | Java Solution | Python Solution | CPP Solution | Js Solution |  Platform  |
 | ------------- | ------------- | --------------- | ------------ | ----------- |  ----------- |
 | [Palindromic Array](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=School,Easy&sortBy=difficulty)  |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker-/blob/main/Arrays/Java/Palindromic%20Array/Palindromic%20Array.java)           | [Solution](https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&category=Arrays&difficulty=School,Easy&sortBy=difficulty)              |   -    |   -  |  Geeks For  Geeks  |
-|  [Print alternate elements of an array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=School,Basic,Easy&sortBy=difficulty)           |   -            |      -           |        -      |     -        |    Geeks For Geeks       |
+|  [Print alternate elements of an array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&category=Arrays&difficulty=School,Basic,Easy&sortBy=difficulty)           |   [Source Code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Arrays/Java/Print%20alternate%20elements%20of%20an%20array)            |      -           |        -      |     -        |    Geeks For Geeks       |
 |  [Perfect Arrays](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1?page=1&category=Arrays&sortBy=difficulty)             |       -        |        -         |      -        |       -      |  Geeks For Geeks         |
 | [Find Index](https://www.geeksforgeeks.org/problems/find-index4752/1?page=1&category=Arrays&sortBy=difficulty)   |   -     |      -       |   -  |   -  |   Geeks For Geeks        |
 |  [Sum of Array](https://www.geeksforgeeks.org/problems/sum-of-array2326/1?page=1&category=Arrays&sortBy=difficulty)             |     [Source code](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Arrays/Java/Sum%20of%20Array)         | [Solution](https://www.geeksforgeeks.org/problems/sum-of-array2326/1?page=1&category=Arrays&sortBy=difficulty)   |       -       |    -         |   Geeks For Geeks        |
@@ -44,10 +43,10 @@ Happy coding! :rocket:
 |  [Two Sum](https://leetcode.com/problems/two-sum/description/)             | [Source code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Arrays/Java/Two%20Sum) |       -          |       -       |    -         |   LeetCode        |
 |  [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)             |  [Source Code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Arrays/Java/Remove%20Duplicates%20from%20Sorted%20Array)  |       -          |       -       |    -         |   LeetCode        |
 |  [Remove Element](https://leetcode.com/problems/remove-element/description/)             |      -         |       -          |       -       |    -         |   LeetCode        |
-| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)              |      [Source Code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Arrays/Java/Search%20Insert%20Position)         |       -          |       -       |    -         |   LeetCode        |
 | [Plus One](https://leetcode.com/problems/plus-one/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
-| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)              |      -         |       -          |       -       |  [Source Code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Arrays/JavaScript/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)  |   LeetCode        |
 |  [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)             |      -         |       -          |       -       |    -         |   LeetCode        |
 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)              |      -         |       -          |       -       |    -         |   LeetCode        |
