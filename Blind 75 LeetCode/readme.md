@@ -7,7 +7,8 @@ Welcome to the Blind 75 Leetcode Challenge! 🎉
 In this exciting event, participants will tackle 75 carefully curated Leetcode questions over the course of 75 days. 📚 The challenge is designed to enhance your problem-solving skills and deepen your understanding of algorithms and data structures.
 
 ### Contribution Guidelines
-
+1. **Register yourself**
+   - Registration link is below.
 1. **Create Your Folder:**
    - Inside the "Blind 75" folder, create a folder with your name.
    - Add a README and paste the template provided by the maintainers.
@@ -56,6 +57,9 @@ Get ready to dive into the world of Leetcode problems and level up your coding s
 Happy coding! 💻✨
 ## Registration Link
 [Register Here](https://forms.gle/gxKnyKiZNpGpNv4P7)
+- After completing registration process contact us on any one of the email-id given below:
+  +  [Avinash Singh](avinash201199@gmail.com)
+  +  [Dhruva Bhat](dhruvabhat24@gmail.com) 
 
 ## Submission Link
 [Sumbit Here](https://forms.gle/VxQbezae9h4ZPwou8) After completing the challenge
