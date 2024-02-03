@@ -57,13 +57,14 @@ Get ready to dive into the world of Leetcode problems and level up your coding s
 Happy coding! 💻✨
 ## Registration Link
 [Register Here](https://forms.gle/gxKnyKiZNpGpNv4P7)
-- After completing registration process contact us on any one of the email-id given below:
-  +  [Avinash Singh](avinash201199@gmail.com)
-  +  [Dhruva Bhat](dhruvabhat24@gmail.com) 
 
 ## Submission Link
 [Sumbit Here](https://forms.gle/VxQbezae9h4ZPwou8) After completing the challenge
 # Problems List
+
+- After completing registration process contact us on any one of the email-id given below:
+  +  Avinash Singh - avinash201199@gmail.com
+  +  Dhruva Bhat - dhruvabhat24@gmail.com 
 
 | Serial Number | Problem Title                                      | Link                                                         | Topic                                   |
 |---------------|----------------------------------------------------|--------------------------------------------------------------|-----------------------------------------|
