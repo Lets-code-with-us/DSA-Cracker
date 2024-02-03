@@ -72,7 +72,8 @@ Happy coding! 💻✨
   +  Avinash Singh - avinash201199@gmail.com
   +  Dhruva Bhat - dhruvabhat24@gmail.com
 
-    
+## Docs
+- [Document](https://docs.google.com/document/d/1YYmT7KSbOQGs3nLNN3iqiyKsrjdZo2MDTE5xiUR5v3E/edit?usp=sharing)    
 # Problems List
 
 
