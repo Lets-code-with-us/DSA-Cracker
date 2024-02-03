@@ -61,7 +61,7 @@ Happy coding! 💻✨
 ## Submission Link
 [Sumbit Here](https://forms.gle/VxQbezae9h4ZPwou8) After completing the challenge
 
-- After completing registration process contact us on any one of the email-id given below:
+- After completing the challenge contact us on any one of the email-id given below for review:
   +  Avinash Singh - avinash201199@gmail.com
   +  Dhruva Bhat - dhruvabhat24@gmail.com
 
