@@ -2,6 +2,9 @@
 
 Welcome to the Blind 75 Leetcode Challenge! 🎉
 
+![blind 75](https://github.com/Lets-code-with-us/DSA-Cracker/assets/61057666/1a1ebbbf-ef9f-4cc4-a5c0-01af7c2642c2)
+
+
 ## Event Information
 
 In this exciting event, participants will tackle 75 carefully curated Leetcode questions over the course of 75 days. 📚 The challenge is designed to enhance your problem-solving skills and deepen your understanding of algorithms and data structures.
