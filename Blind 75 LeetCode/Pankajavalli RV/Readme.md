@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            |https://leetcode.com/problems/two-sum/submissions/1165966071             |                      | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
