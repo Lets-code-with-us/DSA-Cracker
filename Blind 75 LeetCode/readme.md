@@ -77,7 +77,9 @@ Happy coding! 💻✨
   +  Dhruva Bhat - dhruvabhat24@gmail.com
 
 ## Docs
-- [Document](https://docs.google.com/document/d/1YYmT7KSbOQGs3nLNN3iqiyKsrjdZo2MDTE5xiUR5v3E/edit?usp=sharing)    
+- [Document](https://docs.google.com/document/d/1YYmT7KSbOQGs3nLNN3iqiyKsrjdZo2MDTE5xiUR5v3E/edit?usp=sharing)
+
+- [Join our discord channel for any doubts or discussion](https://discord.gg/pPcQtaa6y5) 
 # Problems List
 
 
