@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            | [Source code](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Dhruva%20Bhat/Two%20Sum)            |   37                   | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
