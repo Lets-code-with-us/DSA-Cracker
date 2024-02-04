@@ -56,7 +56,7 @@ Here are some badges representing the status of the repository:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Top Contributors
+## Top Contributors of DSA Cracker
 | Rank | Profile Image | Contributor Name | Questions Solved |
 |------|---------------|-------------------|------------------|
 | 1    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
