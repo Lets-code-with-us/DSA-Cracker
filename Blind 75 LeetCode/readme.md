@@ -12,6 +12,10 @@ In this exciting event, participants will tackle 75 carefully curated Leetcode q
 ### Contribution Guidelines
 1. **Register yourself**
    - Registration link is below.
+     
+1. **Fork**
+   - Fork the repository DSA Cracker
+     
 1. **Create Your Folder:**
    - Inside the "Blind 75" folder, create a folder with your name.
    - Add a README and paste the template provided by the maintainers.
