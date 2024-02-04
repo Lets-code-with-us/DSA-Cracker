@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |https://leetcode.com/problems/two-sum/submissions/1165966071             |                      | ✅ Solved  |
+| 1         | Two Sum                                            |[Solution](https://github.com/sarniu/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Pankajavalli%20RV/Two%20Sum/Two_Sum.py)             |                      | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
