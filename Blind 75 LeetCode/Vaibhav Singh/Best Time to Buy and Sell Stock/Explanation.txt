@@ -1,0 +1,7 @@
+0) Keep Calculating the net profit by the difference between the minimum element of the previous elements and the current element and keep updating the maximum element.
+
+Approach
+1) Initialise a profit and a max_profit varible to zero and a mini variable to INT_MAX so that no element greater than mini can exist in the given array.
+2) Iterate throughout the given vector and keep checking the minimum element then calculating the profit(prices[i]-mini) and then keeping updating the max_profit if   
+   profit exceeds the max_profit.
+3) Return max_profit.
