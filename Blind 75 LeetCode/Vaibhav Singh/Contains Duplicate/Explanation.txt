@@ -1,0 +1,4 @@
+1.Create an unordered_map (mp) to store the count of occurrences of each element.
+2.Iterate through the given vector nums and update the count in the map.
+3.After the iteration, check the counts in the map. If any element has a count greater than or equal to 2, return true, indicating the presence of a duplicate.
+4.If no duplicates are found, return false.
