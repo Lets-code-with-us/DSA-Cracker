@@ -1,0 +1,30 @@
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        int sol[]=new int[2]; //here we create an array named sol 
+        for(int i=0;i<nums.length;i++){ //In order to traverse the array nums we take a for loop starting with i=0 to the nums.length-1
+            for(int j=0;j<i;j++){//here we take another for loop to take another  element in the array nums so we take j=0 to j less than i.
+                if(nums[i]+nums[j]==target){ //Now we compare the addition of 2 elements in the array with the target using if condition if the condition is true then the statement below is executed
+                    sol[0]=j; //if the num[i]+num[j]==target then we assign j to the first position of sol array
+                    sol[1]=i; // and i to the 2nd position of sol array
+                }
+            }
+        }
+        return sol;// then we return the sol array
+        /*Example
+        Input: nums = [2,7,11,15], target = 9 
+
+        Explanation:
+        1st iteration:
+        For i=0 and j=0 but j is not less than i so i++ .
+        2nd iteration:
+        For i=1 and j=0 ,i=1,j<i(true) so nums[i]+nums[j]=nums[1]+nums[0]=7+2=9 which is equal to the target value 9 so
+        we assign sol[0]=j and j=0 and sol[1]=i and i=1 and 
+        we return [0, 1].
+        So Output: [0,1].
+
+        
+        */
+       
+        
+    }
+}
