@@ -22,7 +22,7 @@ In this exciting event, participants will tackle 75 carefully curated Leetcode q
    - Refer [Template.md](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/template.md) file 
 
 2. **Daily Routine:**
-   - Solve Leetcode questions daily between 5:30 AM to 11:55 PM.
+   - Solve Leetcode questions daily between 5:30 AM to 2:00 AM.
    - **Important:** Pull requests raised after 11:55 PM will be rejected. ⏰
 
 3. **Submission Requirements:**
