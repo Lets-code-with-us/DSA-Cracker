@@ -19,7 +19,7 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 - [License](#license)
 - [Top Contributors](#top-contributors)
 - [Repository Owners and maintainers](repository-owner-and-maintainers)
-- 
+ 
 
 ## Introduction
 DSA Cracker is designed to help individuals enhance their skills in data structures and algorithms. Whether you are a beginner or an experienced programmer, this repository provides a curated collection of problems from various platforms to help you practice and improve your problem-solving skills.
