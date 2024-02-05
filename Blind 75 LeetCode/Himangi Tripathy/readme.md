@@ -3,7 +3,7 @@ Blind 75 LeetCode Challenge
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Two%20Sum)         |      33                | solved  |
-| 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
+| 2         | Best Time to Buy and Sell Stock                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Best%20Time%20to%20Buy%20and%20Sell)           |                      | solved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
