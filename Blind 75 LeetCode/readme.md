@@ -23,7 +23,7 @@ In this exciting event, participants will tackle 75 carefully curated Leetcode q
 
 2. **Daily Routine:**
    - Solve Leetcode questions daily between 5:30 AM to 2:00 AM.
-   - **Important:** Pull requests raised after 11:55 PM will be rejected. ⏰
+   - **Important:** Pull requests raised after 2:00 AM will be rejected. ⏰
 
 3. **Submission Requirements:**
    - Attach a screenshot of the accepted answer in your pull request.
