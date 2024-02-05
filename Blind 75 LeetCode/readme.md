@@ -12,14 +12,18 @@ In this exciting event, participants will tackle 75 carefully curated Leetcode q
 ### Contribution Guidelines
 1. **Register yourself**
    - Registration link is below.
+     
+1. **Fork**
+   - Fork the repository DSA Cracker
+     
 1. **Create Your Folder:**
    - Inside the "Blind 75" folder, create a folder with your name.
    - Add a README and paste the template provided by the maintainers.
    - Refer [Template.md](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/template.md) file 
 
 2. **Daily Routine:**
-   - Solve Leetcode questions daily between 5:30 AM to 11:55 PM.
-   - **Important:** Pull requests raised after 11:55 PM will be rejected. ⏰
+   - Solve 1 Leetcode questions daily between 5:30 AM to 2:00 AM.
+   - **Important:** Pull requests raised after 2:00 AM will be rejected. ⏰
 
 3. **Submission Requirements:**
    - Attach a screenshot of the accepted answer in your pull request.
@@ -73,7 +77,9 @@ Happy coding! 💻✨
   +  Dhruva Bhat - dhruvabhat24@gmail.com
 
 ## Docs
-- [Document](https://docs.google.com/document/d/1YYmT7KSbOQGs3nLNN3iqiyKsrjdZo2MDTE5xiUR5v3E/edit?usp=sharing)    
+- [Document](https://docs.google.com/document/d/1YYmT7KSbOQGs3nLNN3iqiyKsrjdZo2MDTE5xiUR5v3E/edit?usp=sharing)
+
+- [Join our discord channel for any doubts or discussion](https://discord.gg/pPcQtaa6y5) 
 # Problems List
 
 

@@ -19,6 +19,7 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 - [License](#license)
 - [Top Contributors](#top-contributors)
 - [Repository Owners and maintainers](repository-owner-and-maintainers)
+ 
 
 ## Introduction
 DSA Cracker is designed to help individuals enhance their skills in data structures and algorithms. Whether you are a beginner or an experienced programmer, this repository provides a curated collection of problems from various platforms to help you practice and improve your problem-solving skills.
@@ -56,11 +57,11 @@ Here are some badges representing the status of the repository:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Top Contributors
+## Top Contributors 
 | Rank | Profile Image | Contributor Name | Questions Solved |
 |------|---------------|-------------------|------------------|
-| 1    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
-| 2    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 4 |
+| 1    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 8 |
+| 2    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
 | 3    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1 |
 | 3    | <img src="https://avatars.githubusercontent.com/u/145255212?v=4" alt="Profile Image 3" width="50"/> | [Abiji-2020](https://github.com/Abiji-2020)| 1 |
 <!--| 4    | <img src="link_to_image_4" alt="Profile Image 4" width="50"/> | Alice Brown      | 75               |
