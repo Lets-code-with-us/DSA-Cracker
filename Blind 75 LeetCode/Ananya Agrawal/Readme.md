@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            | [Source code](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Dhruva%20Bhat/Two%20Sum)            |   37                   | ✅ Solved  |
+| 1         | Two Sum                                            | [Solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/ddf57f247ecbd1caf6c86ccc8030b89ec7d1ec25/Blind%2075%20LeetCode/Ananya%20Agrawal/Two%20sum/Main.java)|   43                   | ✅ solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
