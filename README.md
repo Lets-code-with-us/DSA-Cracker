@@ -60,7 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Top Contributors 
 | Rank | Profile Image | Contributor Name | Questions Solved |
 |------|---------------|-------------------|------------------|
-| 1    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 7 |
+| 1    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 8 |
 | 2    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
 | 3    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1 |
 | 3    | <img src="https://avatars.githubusercontent.com/u/145255212?v=4" alt="Profile Image 3" width="50"/> | [Abiji-2020](https://github.com/Abiji-2020)| 1 |
