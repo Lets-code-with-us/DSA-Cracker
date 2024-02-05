@@ -1,7 +1,7 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |[Solution](https://github.com/sarniu/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Pankajavalli%20RV/Two%20Sum/Two_Sum.py)|  48                    | ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            |[Solution](https://rb.gy/w9q20e)| 48 | ✅ Solved  |
+| 2         | Best Time to Buy and Sell Stock                    |[Solution](https://rb.gy/ek491m)|    | ✅ Solved |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
