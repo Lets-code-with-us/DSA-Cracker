@@ -1,8 +1,8 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |[Solution](https://rb.gy/w9q20e)| 48 | ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                    |[Solution](https://rb.gy/ek491m)|63  | ✅ Solved |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            |[Solution](https://rb.gy/w9q20e)| 48 | ✅ Solved |
+| 2         | Best Time to Buy and Sell Stock                    |[Solution](https://rb.gy/ek491m)| 63 | ✅ Solved |
+| 3         | Contains Duplicate                                 |[Solution](https://rb.gy/w9q20e)|    | ✅ solved |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
