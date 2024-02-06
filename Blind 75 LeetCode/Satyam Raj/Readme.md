@@ -1,7 +1,7 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Two%20Sum)|                      | ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
+| 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |                      | ✅ Solved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
