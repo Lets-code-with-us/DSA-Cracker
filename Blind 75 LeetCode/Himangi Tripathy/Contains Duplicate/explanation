@@ -1,0 +1,18 @@
+class Solution {
+    public boolean containsDuplicate(int[] nums) 
+    {
+        Arrays.sort(nums);//here we sort the array nums 
+        for(int i=0;i<nums.length-1;i++){/*here we take a for loop to traverse the elements 
+            in the array and take i=0 to i<nums.length-1 because if we take nums.length
+             then we will get array index out of range exception because we are comparing
+              two consecutive array elements and the last index of array i.e nums.length-1 
+              doesn't have any element after that. */
+            if(nums[i]==nums[i+1]){ /*here we compare two consecutive array elements and 
+                check whether the 2 consecutive elements are equal or not*/
+                return true;//if they are equal then return true
+            }
+        }
+        return false;//else return false
+
+    }
+}
