@@ -8,8 +8,9 @@ class Solution {
               two consecutive array elements and the last index of array i.e nums.length-1 
               doesn't have any element after that. */
             if(nums[i]==nums[i+1]){ /*here we compare two consecutive array elements and 
-                check whether the 2 consecutive elements are equal or not*/
-                return true;//if they are equal then return true
+                check whether the 2 consecutive elements are equal or not if they are 
+                equal that means the element occurs twice in the array*/
+                return true;//if the element occurs twice in the array then return true
             }
         }
         return false;//else return false
