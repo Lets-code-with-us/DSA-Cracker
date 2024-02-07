@@ -1,9 +1,9 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Two%20Sum/TwoSum.cpp)  | 52  | ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Buy_and_sell_stock/Buy_and_sell_stock.cpp)|   72|✅Solved  |
-| 3         | Contains Duplicate| [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Contains%20Duplicate/contains_duplicate.cpp)            |   91 | ✅Solved  |
-| 4         | Product of Array Except Self |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Product_array_itself/product_array_itself.cpp)             |       109               | ✅Solved  |
+| 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             | # 81                     | ✅solved  |
+| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |                      |✅ Solved  |
+| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
@@ -75,3 +75,4 @@
 | 73        | Subtree of Another Tree                             |             |                      | ❓ Unsolved  |
 | 74        | Construct Binary Tree from Preorder and Inorder Traversal |             |                      | ❓ Unsolved  |
 | 75        | Validate Binary Search Tree                         |             |                      | ❓ Unsolved  |
+
