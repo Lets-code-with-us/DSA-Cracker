@@ -1,0 +1,21 @@
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n = nums.length;//we find the length of the array and store it in n variable
+       int left[]=new int[n];//we take an array named left with the same length as the nums array
+       int right[]=new int[n];//we take an array named right with the same length as the nums array
+       int prod[]=new int[n];//we take an array named prod with the same length as the nums array
+       left[0]=1;//left most element of the left array is always 1
+       right[n-1]=1;//right most element of right array is always 1
+       for( int i=1;i<n;i++){//here we make the left array
+           left[i]=nums[i-1]*left[i-1]; 
+       }
+       for(int j=n-2;j>=0;j--){//here we make the right array
+           right[j]=nums[j+1]*right[j+1];
+       }
+       for(int i=0;i<n;i++){//here we make the prod array using left and right arrays
+           prod[i]=left[i]*right[i];
+       }
+        return prod;//here we return the prod array
+        
+    }
+}
