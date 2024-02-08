@@ -4,7 +4,7 @@
 | 2         | Best Time to Buy and Sell Stock                   | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Best%20Time%20to%20Buy%20and%20Sell%20Stock)            |   #69                   | ✅ solved |
 | 3         | Contains Duplicate                                | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Shubham%20Sharma/Contains%20Duplicate/code.cpp)            |    #90                  | ✅ solved  |
 | 4         | Product of Array Except Self                       | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Product%20of%20Array%20Expect%20Self)            |           #104           | ✅ solved |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Maximum%20Subarray)            |                      | ✅ solved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
