@@ -2,8 +2,8 @@
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |[Solution](https://rb.gy/w9q20e)| 48 | ✅ Solved |
 | 2         | Best Time to Buy and Sell Stock                    |[Solution](https://rb.gy/ek491m)| 63 | ✅ Solved |
-| 3         | Contains Duplicate                                 |[Solution](https://rb.gy/w9q20e)|    | ✅ solved |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                 |[Solution](https://rb.gy/w9q20e)| 83 | ✅ Solved |
+| 4         | Product of Array Except Self                       |[Solution](https://rb.gy/m8at2i)| 113| ✅ Solved |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |

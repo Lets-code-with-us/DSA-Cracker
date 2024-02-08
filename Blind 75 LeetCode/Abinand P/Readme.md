@@ -1,8 +1,8 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             |                      | ✅solved  |
-| 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             | # 81                     | ✅solved  |
+| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |                      |✅ Solved  |
+| 3         | Contains Duplicate                                |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Contains%20Duplicate)           |                      | ✅ Solved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |

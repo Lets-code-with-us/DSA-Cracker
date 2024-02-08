@@ -1,4 +1,4 @@
-# Code Explanation: Best time to buy and sell stock - Python Solution
+# Code Explanation: Best time to buy and sell stock - java Solution
 
 ## Explanation:
 
