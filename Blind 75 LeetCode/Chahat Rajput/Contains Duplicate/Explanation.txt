@@ -1,0 +1,23 @@
+Contains Duplicate
+
+******************* Ist method ***************************
+
+*Store count of the elements in map
+*Check if any element count is greater then one return true
+*If every element count is 1 then return false
+
+
+Complexity
+Time:O(n)
+Space:O(n)
+
+**************************** 2nd method **********************
+
+*Sort array
+*compare first one with second element
+*if same exist return true
+*if not return false
+
+Complexity
+Time:O(n)
+Space:O(1)
