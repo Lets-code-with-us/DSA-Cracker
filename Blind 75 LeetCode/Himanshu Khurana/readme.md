@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |    [solution](https://github.com/himanshukhurana2324/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Two%20Sum/Two_sum.cpp)         |                      | ❓ Usolved  |
+| 1         | Two Sum                                            |    [solution](https://github.com/himanshukhurana2324/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Two%20Sum/Two_sum.cpp)         |     114                 | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
