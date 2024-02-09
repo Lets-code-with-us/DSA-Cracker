@@ -4,8 +4,8 @@
 | 2         | Best Time to Buy and Sell Stock                   |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.java)|       78           | ✅ solved  |
 | 3         | Contains Duplicate                                |  [solution](  https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Contains%20Duplicate/Main.java )        |     95                 | ✅ solved  |
 | 4         | Product of Array Except Self                       |  [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Product%20of%20Array%20Except%20Self/Main.java)           |   107                   |  ✅ solved |
-| 5         | Maximum Subarray                                   | [solution]( https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Maximum%20Subarray/Main.java )        |                      | ✅ solved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   | [solution]( https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Maximum%20Subarray/Main.java )        |        107              | ✅ solved  |
+| 6         | Maximum Product Subarray                           | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Maximum%20Product%20Subarray/Main.java)            |                      |  ✅ solved |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
