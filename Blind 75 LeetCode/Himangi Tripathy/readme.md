@@ -6,7 +6,7 @@ Blind 75 LeetCode Challenge
 | 2         | Best Time to Buy and Sell Stock                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Best%20Time%20to%20Buy%20and%20Sell)           |         61             | solved  |
 | 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |           84           | solved  |
 | 4         | Product of Array Except Self                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/ProductofArrayExceptSelf)            |  103                    | solved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Subarray)           |   120                   | solved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
