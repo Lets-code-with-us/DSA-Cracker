@@ -3,8 +3,8 @@
 | 1         | Two Sum                                            |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Two%20sum)           |    #80                  |  solved  |
 | 2         | Best Time to Buy and Sell Stock                   |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Best%20Time%20to%20Buy%20and%20Sell%20Stock)           |    #80                  |  solved  |
 | 3         | Contains Duplicate                                |   [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Contains%20Duplicate)        |              #115        |   solved  |
-| 4         | Product of Array Except Self                       |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Product%20of%20Array%20Except%20Self)           |                      |    solved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Product%20of%20Array%20Except%20Self)           |      #127                |    solved  |
+| 5         | Maximum Subarray                                   |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Maximum%20Subarray)           |                      |  solved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
