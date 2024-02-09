@@ -1,10 +1,10 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Two%20Sum)|           60           | ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Best%20Time%20to%20Buy%20and%20Sell%20Stock) |          83            | ✅ Solved  |
-| 3         | Contains Duplicate                                |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Contains%20Duplicate/)             |         106             | ✅ Solved  |
-| 4         | Product of Array Except Self                       |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Product%20of%20Array%20Except%20Self/)             |         116             | ✅ Solved  |
-| 5         | Maximum Subarray                                   |[Solution](https://github.com/Rajsatyammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Satyam%20Raj/Maximum%20Subarray/)             |                      | ✅ Solved  |
+| 1         | Two Sum                                            |    [solution](https://github.com/himanshukhurana2324/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Two%20Sum/Two_sum.cpp)         |     114                 |✅ solved  |
+| 2         | Best Time to Buy and Sell Stock                   |     [solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Buy%20and%20Sell%20Stock)        |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
