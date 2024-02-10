@@ -1,0 +1,22 @@
+Explanation:-Find Minimum in Rotated Sorted array
+
+Approach:-Break array into two parts we know that at some point we find small element and then we apply our algorithm
+
+
+********** Detailed Approach ***************
+
+*Set two variable "start" (beginning of array) and "end" (end of array)
+
+*In a loop break array through finding mid of array
+
+*if n[mid]>n[end] move start from mid+1 (because we find small element)
+
+*if not then move end to mid end=mid (because small ele not lies there so move end)
+
+*last return small element n[start]
+
+
+***Complexity***
+
+Time:-O(logN)
+Space:-O(1)
