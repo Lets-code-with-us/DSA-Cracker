@@ -5,7 +5,7 @@
 | 3         | Contains Duplicate                                |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Contains%20Duplicate)           |  #123                    | ✅ Solved  |
 | 4         | Product of Array Except Self                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Product%20of%20Array%20Except%20Self)            |                      | ✅ Solved  |
 | 5         | Maximum Subarray                                   | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Maximum%20subarray)            |                      | ✅solved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |                      | ✅solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
