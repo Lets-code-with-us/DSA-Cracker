@@ -8,7 +8,7 @@ Blind 75 LeetCode Challenge
 | 4         | Product of Array Except Self                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/ProductofArrayExceptSelf)            |  103                    | solved  |
 | 5         | Maximum Subarray                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Subarray)           |   120                   | solved  |
 | 6         | Maximum Product Subarray                           |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Product%20Subarray)           | 133                     | solved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Find%20Minimumin%20Rotated%20Sorted%20Array)             |          150            | solved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |

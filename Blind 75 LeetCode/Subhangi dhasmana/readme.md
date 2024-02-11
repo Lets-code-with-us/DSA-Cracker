@@ -6,7 +6,7 @@
 | 4         | Product of Array Except Self                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Product%20of%20array%20except%20self)|       102               | ✅ solved  |
 | 5         | Maximum Subarray                                   |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Maximum%20subarray)|  122                  | ✅ solved   |
 | 6         | Maximum Product Subarray                           |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Maximum%20Product%20Subarray)|   134                   | ✅ solved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Find%20Minimum%20in%20Rotated%20Sorted%20Array)|       148             | ✅ solved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
