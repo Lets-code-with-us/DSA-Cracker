@@ -2,7 +2,7 @@
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            | [Source Code](https://github.com/Dev-Nithish/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Nithish%20Achar)            |      135                | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   | [Source Code](https://github.com/Dev-Nithish/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Nithish%20Achar)           | 170                    | ✅ solved  |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |   170                   | ✅solved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
