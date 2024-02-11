@@ -1,0 +1,29 @@
+Explanation:-Search in Rotated Sorted array
+
+Approach:-Break array into two parts apply binary search method because array is sorted but rotated also find ele. and then return ints index
+
+
+*********** Detailed Approach ***************
+
+*Take two variables start(pointing to the beginning ele of array) and end(pointing to the end ele of array)
+
+*Apply Binary Search and find mid of array
+
+*We know that our left and right part is sorted
+
+*Sorted Half
+	*If left part we know its sorted 
+		*if target<n[mid]&& target>=n[start] then we know our ele is in first half so end=mid-1
+		*else our ele is is second half so start=mid+1
+	
+    *If right part 
+		*if target>nums[mid] && target <=nums[end] then ele is in second half so do start=mid+1
+		*if not ele is in first half
+
+*If element found return its position(mid) otherwise -1
+	
+
+***Complexity***
+
+Time:-O(logN)
+Space:-O(1)
