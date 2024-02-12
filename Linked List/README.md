@@ -1,3 +1,28 @@
+# Problems On Arrays
+
+Problems on Arrays from platforms like GFG and Leetcode.
+
+## How to Contribute to Problems On Arrays :computer:
+
+Follow these steps to contribute to this project:
+
+1. :mag_right: Check the list of problems in the table below.
+2. :point_right: Click on the problem you want to solve.
+3. :eyes: Check which language solutions have already been added.
+4. :bulb: Provide the solution in a language that has not been solved yet.
+5. :file_folder: Navigate to the corresponding language folder.
+6. :new: Create a new folder with the problem title.
+7. :memo: Create a README file in this new folder.
+8. :pencil2: In the README, explain your code and include a screenshot of the accepted answer.
+9. :heavy_check_mark: Commit your changes with a meaningful commit message.
+10. :link: Update the main README in the Arrays folder with a link to your solution.
+11. :arrow_heading_up: Open a pull request.
+12. :hourglass_flowing_sand: Wait for your pull request to be reviewed.
+
+Happy coding! :rocket:
+
+# Important Note : Questions from GFG will be added soon  
+
 | Sr.No | Problem Title | Java Code | C++ Code | JavaScript Code | Python Code | Difficulty Level | Platform | Topic      |
 |-------|---------------|-----------|----------|-----------------|-------------|------------------|----------|------------|
 | 1     | [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=daily-question&envId=2024-02-12) |           |          |                 |             | Easy             | Leetcode | Linked List |
