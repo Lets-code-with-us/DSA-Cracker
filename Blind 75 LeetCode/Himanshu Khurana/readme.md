@@ -3,8 +3,7 @@
 | 1         | Two Sum                                            |    [solution](https://github.com/himanshukhurana2324/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Two%20Sum/Two_sum.cpp)         |     114                 |✅ solved  |
 | 2         | Best Time to Buy and Sell Stock                   |     [solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Buy%20and%20Sell%20Stock)        |     124                 |✅ solved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
-| 4         | Product of Array Except Self                      |             |                      | ❓ Unsolved  |
-
+| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
