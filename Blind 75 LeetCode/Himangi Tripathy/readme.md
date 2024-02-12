@@ -4,12 +4,12 @@ Blind 75 LeetCode Challenge
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Two%20Sum)         |      33                | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Best%20Time%20to%20Buy%20and%20Sell)           |         61             | solved  |
-| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |             84         | solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |           84           | solved  |
+| 4         | Product of Array Except Self                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/ProductofArrayExceptSelf)            |  103                    | solved  |
+| 5         | Maximum Subarray                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Subarray)           |   120                   | solved  |
+| 6         | Maximum Product Subarray                           |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Product%20Subarray)           | 133                     | solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Find%20Minimumin%20Rotated%20Sorted%20Array)             |          150            | solved  |
+| 8         | Search in Rotated Sorted Array                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Search%20in%20Rotated%20Sorted%20Array)            |          168            | solved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
