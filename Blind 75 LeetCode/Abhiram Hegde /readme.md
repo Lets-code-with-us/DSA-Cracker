@@ -1,7 +1,7 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde%20/Two%20Sum)        |      166                |  ✅ Solved  |
-| 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
+| 2         | Best Time to Buy and Sell Stock                   |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde%20/Best%20Time%20To%20Buy%20%26%20Sell%20Stock)        |                      | ✅ Solved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
