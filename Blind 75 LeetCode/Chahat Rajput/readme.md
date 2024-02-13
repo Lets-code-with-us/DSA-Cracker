@@ -8,8 +8,8 @@
 | 6         | Maximum Product Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Product_Subarray/maxi_product.cpp)            |         130             | ✅Solved  |
 | 7         | Find Minimum in Rotated Sorted Array|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/min_ele_in_rotated_array/min_ele_in_rotated.cpp)             | 144                     | ✅Solved  |
 | 8         | Search in Rotated Sorted Array|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Search_in_rotated_array/search_in_rotaed_array.cpp)             |   159                   | ✅Solved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
+| 9         | 3 Sum |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/3%20Sum/3_sum.cpp)|171                      |✅Solved  |
+| 10        | Container With Most Water |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Container%20with%20most%20water/container_most_water.cpp)             |       187   | ✅Solved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |

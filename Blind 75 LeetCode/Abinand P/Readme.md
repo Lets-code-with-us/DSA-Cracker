@@ -3,11 +3,11 @@
 | 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             | # 81                     | ✅solved  |
 | 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |     #101                 |✅ Solved  |
 | 3         | Contains Duplicate                                |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Contains%20Duplicate)           |  #123                    | ✅ Solved  |
-| 4         | Product of Array Except Self                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Product%20of%20Array%20Except%20Self)            |                      | ✅ Solved  |
-| 5         | Maximum Subarray                                   | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Maximum%20subarray)            |                      | ✅solved  |
-| 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |                      | ✅solved  |
-| 7         | Find Minimum in Rotated Sorted Array               |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20minimum%20in%20rotated%20array)           |                      |✅ solved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Product%20of%20Array%20Except%20Self)            |     #136                 | ✅ Solved  |
+| 5         | Maximum Subarray                                   | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Maximum%20subarray)            |    #153                  | ✅solved  |
+| 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |  #157                    | ✅solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20minimum%20in%20rotated%20array)           | #181                     |✅ solved  |
+| 8         | Search in Rotated Sorted Array                     |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Search%20in%20rotated%20array)             |                      | ✅solved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
