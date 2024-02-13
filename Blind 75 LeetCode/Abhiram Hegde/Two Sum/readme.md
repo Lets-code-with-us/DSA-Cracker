@@ -9,13 +9,13 @@ We can solve this problem using a HashMap to store the complement of each elemen
 1. Create a HashMap to store the complement of each element.
    - Key: complement (`target - nums[i]`)
    - Value: index of the corresponding element (`i`)
-   
+
 2. Iterate through the array `nums`.
    - For each element `nums[i]`, calculate its complement (`target - nums[i]`).
    - Check if the complement exists in the HashMap.
      - If found, return the indices of the two numbers: `map.get(complement)` and `i`.
      - If not found, add the current element to the HashMap (`map.put(nums[i], i)`).
-     
+
 3. If no solution is found after iterating through the array, return an empty array.
 
 ## Time Complexity
