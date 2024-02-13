@@ -4,8 +4,8 @@
 | 2         | Best Time to Buy and Sell Stock                   | [Source Code](https://github.com/Dev-Nithish/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Nithish%20Achar)           | 170                    | ✅ solved  |
 | 3         | Contains Duplicate                                | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |   170                   | ✅solved  |
 | 4         | Product of Array Except Self                       | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |       183               | ✅solved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |      196                | ✅solved  |
+| 6         | Maximum Product Subarray                           | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)           |        196              | ✅solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
