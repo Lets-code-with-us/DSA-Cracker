@@ -11,7 +11,7 @@ Blind 75 LeetCode Challenge
 | 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Find%20Minimumin%20Rotated%20Sorted%20Array)             |          150            | solved  |
 | 8         | Search in Rotated Sorted Array                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Search%20in%20Rotated%20Sorted%20Array)            |          168            | solved  |
 | 9         | 3 Sum                                              | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/3%20Sum)            |     175               | solved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
+| 10        | Container With Most Water                          |             |                      | solved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
