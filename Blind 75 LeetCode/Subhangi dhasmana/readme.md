@@ -10,7 +10,7 @@
 | 8         | Search in Rotated Sorted Array                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Search%20in%20Rotated%20Sorted%20Array)|  164                 | ✅ solved  |
 | 9         | 3 Sum                                              |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/3%20Sum)|     179              | ✅ solved  |
 | 10        | Container With Most Water                          |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Container%20With%20Most%20Water)|   190                | ✅ solved   |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
+| 11        | Sum of Two Integers                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Sum%20of%20two%20integers)|198               | ✅ solved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
