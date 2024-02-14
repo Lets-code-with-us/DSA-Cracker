@@ -12,7 +12,7 @@ Blind 75 LeetCode Challenge
 | 8         | Search in Rotated Sorted Array                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Search%20in%20Rotated%20Sorted%20Array)            |          168            | solved  |
 | 9         | 3 Sum                                              | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/3%20Sum)            |     175               | solved  |
 | 10        | Container With Most Water                          | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Container%20With%20Most%20Water)            |       191               | solved  |
-| 11        | Sum of Two Integers                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Sum%20of%20Two%20Integers)            |                      | solved  |
+| 11        | Sum of Two Integers                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Sum%20of%20Two%20Integers)            |            201          | solved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
