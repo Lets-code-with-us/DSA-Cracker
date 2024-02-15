@@ -11,7 +11,7 @@
 | 9         | 3 Sum |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/3%20Sum/3_sum.cpp)|171                      |✅Solved  |
 | 10        | Container With Most Water |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Container%20with%20most%20water/container_most_water.cpp)             |       187   | ✅Solved  |
 | 11        | Sum of Two Integers|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Sum%20of%20integers/sum_of_integers.cpp)             |       199               | ✅Solved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
+| 12        | Number of 1 Bits |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Number_of_1_bits/number_of_1.cpp)             |            208          |✅Solved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
