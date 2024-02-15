@@ -2,7 +2,7 @@
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            | [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/Two%20Sum/twosumcode.cpp)            |        197              | ✅ solved  |
 | 2         | Best Time to Buy and Sell Stock                   | [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/Best%20Time%20to%20Buy%20and%20Sell%20Stock/code.cpp)         | 202                     | ✅ solved   |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                |  [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/Contains%20Duplicate/code.cpp)           |     210                 | ✅ solved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
 | 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
 | 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
