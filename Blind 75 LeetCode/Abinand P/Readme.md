@@ -8,8 +8,8 @@
 | 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |  #157                    | ✅solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20minimum%20in%20rotated%20array)           | #181                     |✅ solved  |
 | 8         | Search in Rotated Sorted Array                     |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Search%20in%20rotated%20array)             | #192                     | ✅solved  |
-| 9         | 3 Sum                                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/3sum)             |                      | ✅solved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
+| 9         | 3 Sum                                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/3sum)             |          #204            | ✅solved  |
+| 10        | Container With Most Water                          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Container%20With%20most%20water)             |                      |  ✅solved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
