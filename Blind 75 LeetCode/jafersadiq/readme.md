@@ -5,7 +5,7 @@
 | 3         | Contains Duplicate                                |   [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Contains%20Duplicate)        |              #115        |   solved  |
 | 4         | Product of Array Except Self                       |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Product%20of%20Array%20Except%20Self)           |      #127                |    solved  |
 | 5         | Maximum Subarray                                   |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Maximum%20Subarray)           |                      |  solved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 6         | Maximum Product Subarray                           |  [solution](https://github.com/jafersadiq/DSA-Cracker/tree/main/Blind%2075%20LeetCode/jafersadiq/Maximum%20Product%20Subarray)           |                      |  solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
