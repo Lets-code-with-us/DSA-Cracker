@@ -11,8 +11,8 @@
 | 9         | 3 Sum                                              | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/3%20Sum/Main.java)            |  174                    | ✅ solved   |
 | 10        | Container With Most Water                          |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Container%20With%20Most%20Water/Main.java)             |          186            | ✅ solved  |
 | 11        | Sum of Two Integers                                |  [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Sum%20of%20Two%20Integers/Main.java)           |      186                | ✅ solved   |
-| 12        | Number of 1 Bits                                   |[solutio](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Number%20of%201%20Bits/Main.java)             |     207                 |  ✅ solved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
+| 12        | Number of 1 Bits                                   |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Number%20of%201%20Bits/Main.java)             |     207                 |  ✅ solved  |
+| 13        | Counting Bits                                      | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Counting%20Bits/Main.java)            |                      | ✅ solved   |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
