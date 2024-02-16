@@ -6,8 +6,8 @@
 | 4         | Product of Array Except Self                       | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |       183               | ✅solved  |
 | 5         | Maximum Subarray                                   | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |      196                | ✅solved  |
 | 6         | Maximum Product Subarray                           | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)           |        196              | ✅solved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
+| 7         | Find Minimum in Rotated Sorted Array               | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             | 206                     | ✅solved  |
+| 8         | Search in Rotated Sorted Array                     |[source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)              |223                      |✅ solved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
