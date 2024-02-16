@@ -12,7 +12,7 @@
 | 10        | Container With Most Water                          | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Container%20With%20Most%20Water)            |         #189             | ✅ solved  |
 | 11        | Sum of Two Integers                                | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Sum%20of%20Two%20Integers)            |      #203                | ✅ solved  |
 | 12        | Number of 1 Bits                                   | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Number%20of%201%20bits)            |       #212               | ✅ solved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
+| 13        | Counting Bits                                      | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Counting%20Bits)            |        #230              | ✅ solved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
