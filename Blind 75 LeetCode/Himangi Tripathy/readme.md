@@ -15,7 +15,7 @@ Blind 75 LeetCode Challenge
 | 11        | Sum of Two Integers                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Sum%20of%20Two%20Integers)            |            201          | solved  |
 | 12        | Number of 1 Bits                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Number%20of%201%20Bits)           |   211                   | solved  |
 | 13        | Counting Bits                                      | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Counting%20Bits)            |     229                 | solved     |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
+| 14        | Missing Number                                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Missing%20Number)            |                      | solved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
