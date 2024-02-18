@@ -12,7 +12,7 @@ Explanation:-Reverse Bits
 *Now do right shift of n because next time lsb will change and do & with other bit
 
 
-Complexity
+*******Complexity*********
 
 Space:-O(1)
 Time:-O(n)
