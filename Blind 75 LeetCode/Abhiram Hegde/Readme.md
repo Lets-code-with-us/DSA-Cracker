@@ -7,7 +7,7 @@
 | 5         | Maximum Subarray                                   |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Maximum%20Subarray)       |        214              | ✅ Solved  |
 | 6         | Maximum Product Subarray                           |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Maximum%20Product%20Subarray)         |          220            | ✅ Solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Find%20Minimum%20in%20Rotated%20Sorted%20Array)        |           243           | ✅ Solved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
+| 8         | Search in Rotated Sorted Array                     |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Search%20in%20Rotated%20Sorted%20Array)        |           255           | ✅ Solved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
