@@ -15,7 +15,7 @@
 | 13        | Counting Bits                                      | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Counting%20Bits)            |        #230              | ✅ solved  |
 | 14        | Missing Number                                     | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Missing%20number)            |        #240
               | ✅ solved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 15        | Reverse Bits                                       | [solution](https://github.com/Shuubhhaammm/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Shubham%20Sharma/Reverse%20Bits)            |                      | ✅ solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
