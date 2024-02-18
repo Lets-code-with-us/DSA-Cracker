@@ -13,8 +13,8 @@
 | 11        | Sum of Two Integers                                |  [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Sum%20of%20Two%20Integers/Main.java)           |      186                | ✅ solved   |
 | 12        | Number of 1 Bits                                   |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Number%20of%201%20Bits/Main.java)             |     207                 |  ✅ solved  |
 | 13        | Counting Bits                                      | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Counting%20Bits/Main.java)            |    216                  | ✅ solved   |
-| 14        | Missing Number                                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Missing%20Number/Main.java)            |                      |  ✅ solved |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 14        | Missing Number                                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Missing%20Number/Main.java)            |  233                    |  ✅ solved |
+| 15        | Reverse Bits                                       | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Reverse%20Bits/Main.java)            |                      | ✅ solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
