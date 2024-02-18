@@ -10,9 +10,9 @@
 | 8         | Search in Rotated Sorted Array                     |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Search%20in%20rotated%20array)             | #192                     | ✅solved  |
 | 9         | 3 Sum                                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/3sum)             |          #204            | ✅solved  |
 | 10        | Container With Most Water                          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Container%20With%20most%20water)             |    #213                  |  ✅solved  |
-| 11        | Sum of Two Integers                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sum%20of%20Two%20integers)             |                      | ✅solved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
+| 11        | Sum of Two Integers                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sum%20of%20Two%20integers)             |    #228                  | ✅solved  |
+| 12        | Number of 1 Bits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%201%20bits%20)            |      #244(opened)           | ✅solved  |
+| 13        | Counting Bits                                      |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Counting%20bits)           |       #237                    | ✅solved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
