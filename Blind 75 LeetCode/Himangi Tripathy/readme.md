@@ -4,19 +4,19 @@ Blind 75 LeetCode Challenge
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Two%20Sum)         |      33                | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Best%20Time%20to%20Buy%20and%20Sell)           |         61             | solved  |
-| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |             84         | solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |           84           | solved  |
+| 4         | Product of Array Except Self                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/ProductofArrayExceptSelf)            |  103                    | solved  |
+| 5         | Maximum Subarray                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Subarray)           |   120                   | solved  |
+| 6         | Maximum Product Subarray                           |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Product%20Subarray)           | 133                     | solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Find%20Minimumin%20Rotated%20Sorted%20Array)             |          150            | solved  |
+| 8         | Search in Rotated Sorted Array                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Search%20in%20Rotated%20Sorted%20Array)            |          168            | solved  |
+| 9         | 3 Sum                                              | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/3%20Sum)            |     175               | solved  |
+| 10        | Container With Most Water                          | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Container%20With%20Most%20Water)            |       191               | solved  |
+| 11        | Sum of Two Integers                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Sum%20of%20Two%20Integers)            |            201          | solved  |
+| 12        | Number of 1 Bits                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Number%20of%201%20Bits)           |   211                   | solved  |
+| 13        | Counting Bits                                      | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Counting%20Bits)            |     229                 | solved     |
+| 14        | Missing Number                                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Missing%20Number)            |    239                  | solved  |
+| 15        | Reverse Bits                                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Reverse%20Bits)            |      249                | solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |

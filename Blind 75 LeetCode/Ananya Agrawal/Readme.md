@@ -1,20 +1,20 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            ||                   | ✅ solved    |
-| 2         | Best Time to Buy and Sell Stock                   ||                  | ✅ solved  |
-| 3         | Contains Duplicate                                |             |     95                 | ✅ solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Two%20sum/Main.java)|     39              | ✅ solved    |
+| 2         | Best Time to Buy and Sell Stock                   |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Best%20Time%20to%20Buy%20and%20Sell%20Stock/main.java)|       78           | ✅ solved  |
+| 3         | Contains Duplicate                                |  [solution](  https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Contains%20Duplicate/Main.java )        |     95                 | ✅ solved  |
+| 4         | Product of Array Except Self                       |  [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Product%20of%20Array%20Except%20Self/Main.java)           |   107                   |  ✅ solved |
+| 5         | Maximum Subarray                                   | [solution]( https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Maximum%20Subarray/Main.java )        |        107              | ✅ solved  |
+| 6         | Maximum Product Subarray                           | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Maximum%20Product%20Subarray/Main.java)            |       129               |  ✅ solved |
+| 7         | Find Minimum in Rotated Sorted Array               | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Main.java)            |     143                 | ✅ solved |
+| 8         | Search in Rotated Sorted Array                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Search%20in%20Rotated%20Sorted%20Array/Main.java)            |     158                 | ✅ solved   |
+| 9         | 3 Sum                                              | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/3%20Sum/Main.java)            |  174                    | ✅ solved   |
+| 10        | Container With Most Water                          |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Container%20With%20Most%20Water/Main.java)             |          186            | ✅ solved  |
+| 11        | Sum of Two Integers                                |  [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Sum%20of%20Two%20Integers/Main.java)           |      186                | ✅ solved   |
+| 12        | Number of 1 Bits                                   |[solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Number%20of%201%20Bits/Main.java)             |     207                 |  ✅ solved  |
+| 13        | Counting Bits                                      | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Counting%20Bits/Main.java)            |    216                  | ✅ solved   |
+| 14        | Missing Number                                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Missing%20Number/Main.java)            |  233                    |  ✅ solved |
+| 15        | Reverse Bits                                       | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Reverse%20Bits/Main.java)            |     245                 | ✅ solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
