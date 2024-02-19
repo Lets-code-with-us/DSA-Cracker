@@ -15,7 +15,7 @@
 | 13        | Counting Bits|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Counting%20Bits/counting_bits.cpp)             |      217                | ✅Solved  |
 | 14        | Missing Number|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Missing%20Number/missing_number.cpp)             |   234                   | ✅Solved  |
 | 15        | Reverse Bits  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Reverse%20bits/reverse_bits.cpp)             |   247                   |  ✅Solved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
+| 16        | Climbing Stairs|   [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Climbing%20Stairs/climbing_stairs.cpp)          |       257               | ✅Solved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
