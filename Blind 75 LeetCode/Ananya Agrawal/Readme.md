@@ -16,7 +16,7 @@
 | 14        | Missing Number                                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Missing%20Number/Main.java)            |  233                    |  ✅ solved |
 | 15        | Reverse Bits                                       | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Reverse%20Bits/Main.java)            |     245                 | ✅ solved  |
 | 16        | Climbing Stairs                                    | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Climbing%20Stairs/Main.java)            |  259                    | ✅ solved   |
-| 17        | Coin Change                                        | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Coin%20Change/Main.java)            |                      | ✅ solved  |
+| 17        | Coin Change                                        | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Coin%20Change/Main.java)            |    273                  | ✅ solved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
