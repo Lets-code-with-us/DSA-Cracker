@@ -13,8 +13,8 @@
 | 11        | Sum of Two Integers                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sum%20of%20Two%20integers)             |    #228                  | ✅solved  |
 | 12        | Number of 1 Bits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%201%20bits%20)            |      #244        | ✅solved  |
 | 13        | Counting Bits                                      |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Counting%20bits)           |       #237                    | ✅solved  |
-| 14        | Missing Number                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Missing%20number)            |        #261(opened)              | ✅solved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 14        | Missing Number                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Missing%20number)            |        #261          | ✅solved  |
+| 15        | Reverse Bits                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reverse%20Bits)            |  #271(opened)                    | ✅solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
