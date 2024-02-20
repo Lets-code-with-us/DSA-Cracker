@@ -18,7 +18,7 @@ Blind 75 LeetCode Challenge
 | 14        | Missing Number                                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Missing%20Number)            |    239                  | solved  |
 | 15        | Reverse Bits                                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Reverse%20Bits)            |      249                | solved  |
 | 16        | Climbing Stairs                                    | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Climbing%20Stairs)            |   265                   | solved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
+| 17        | Coin Change                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Coin%20Change)            |                      | solved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
