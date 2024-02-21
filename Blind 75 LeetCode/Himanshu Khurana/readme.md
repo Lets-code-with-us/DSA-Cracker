@@ -5,7 +5,7 @@
 | 3         | Contains Duplicate                                | [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/contain%20duplicates)            |         142             | ✅ solved  |
 | 4         | Product of Array Except Self                       | [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/product_of_all_except_self)            |     154                 | ✅ solved  |
 | 5         | Maximum Subarray                                   |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Maximum%20Subarray)          |                      | ✅ solved   |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 6         | Maximum Product Subarray                           |    [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/max_product_subarray)         |                      | ✅ solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
