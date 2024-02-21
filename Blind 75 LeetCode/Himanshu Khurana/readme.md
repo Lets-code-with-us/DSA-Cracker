@@ -52,7 +52,7 @@
 | 50        | Merge K Sorted Lists                                |             |                      | ❓ Unsolved  |
 | 51        | Remove Nth Node From End Of List                    |             |                      | ❓ Unsolved  |
 | 52        | Reorder List                                        |             |                      | ❓ Unsolved  |
-| 53        | Set Matrix Zeroes                                   |             |                      | ❓ Unsolved  |
+| 53        | Set Matrix Zeroes                                   |  [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/set_matrix_zeroes)          |                      | ✅ solved  |
 | 54        | Spiral Matrix                                       |             |                      | ❓ Unsolved  |
 | 55        | Rotate Image                                        |             |                      | ❓ Unsolved  |
 | 56        | Word Search                                         |             |                      | ❓ Unsolved  |
