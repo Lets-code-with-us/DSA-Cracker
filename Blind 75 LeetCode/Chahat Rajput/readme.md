@@ -3,21 +3,21 @@
 | 1         | Two Sum                                            |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Two%20Sum/TwoSum.cpp)  | 52  | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Buy_and_sell_stock/Buy_and_sell_stock.cpp)|   72|✅Solved  |
 | 3         | Contains Duplicate| [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Contains%20Duplicate/contains_duplicate.cpp)            |   91 | ✅Solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Product_array_itself/product_array_itself.cpp)             |       109               | ✅Solved  |
+| 5         | Maximum Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Subarray/maximum_subarray.cpp)             |              117        | ✅Solved  |
+| 6         | Maximum Product Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Product_Subarray/maxi_product.cpp)            |         130             | ✅Solved  |
+| 7         | Find Minimum in Rotated Sorted Array|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/min_ele_in_rotated_array/min_ele_in_rotated.cpp)             | 144                     | ✅Solved  |
+| 8         | Search in Rotated Sorted Array|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Search_in_rotated_array/search_in_rotaed_array.cpp)             |   159                   | ✅Solved  |
+| 9         | 3 Sum |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/3%20Sum/3_sum.cpp)|171                      |✅Solved  |
+| 10        | Container With Most Water |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Container%20with%20most%20water/container_most_water.cpp)             |       187   | ✅Solved  |
+| 11        | Sum of Two Integers|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Sum%20of%20integers/sum_of_integers.cpp)             |       199               | ✅Solved  |
+| 12        | Number of 1 Bits |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Number_of_1_bits/number_of_1.cpp)             |            208          |✅Solved  |
+| 13        | Counting Bits|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Counting%20Bits/counting_bits.cpp)             |      217                | ✅Solved  |
+| 14        | Missing Number|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Missing%20Number/missing_number.cpp)             |   234                   | ✅Solved  |
+| 15        | Reverse Bits  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Reverse%20bits/reverse_bits.cpp)             |   247                   |  ✅Solved  |
+| 16        | Climbing Stairs|   [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Climbing%20Stairs/climbing_stairs.cpp)          |       257               | ✅Solved  |
+| 17        | Coin Change |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Coin%20Change/coin_change.cpp)             |            269          | ✅Solved  |
+| 18        | Longest Increasing Subsequence| [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Longest%20Increasing%20Subsequence/longest_inc_subsequence.cpp)           |    278                  | ✅Solved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
 | 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |

@@ -1,21 +1,21 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             | # 81                     | ✅solved  |
-| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |                      |✅ Solved  |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
+| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |     #101                 |✅ Solved  |
+| 3         | Contains Duplicate                                |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Contains%20Duplicate)           |  #123                    | ✅ Solved  |
+| 4         | Product of Array Except Self                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Product%20of%20Array%20Except%20Self)            |     #136                 | ✅ Solved  |
+| 5         | Maximum Subarray                                   | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Maximum%20subarray)            |    #153                  | ✅solved  |
+| 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |  #157                    | ✅solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20minimum%20in%20rotated%20array)           | #181                     |✅ solved  |
+| 8         | Search in Rotated Sorted Array                     |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Search%20in%20rotated%20array)             | #192                     | ✅solved  |
+| 9         | 3 Sum                                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/3sum)             |          #204            | ✅solved  |
+| 10        | Container With Most Water                          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Container%20With%20most%20water)             |    #213                  |  ✅solved  |
+| 11        | Sum of Two Integers                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sum%20of%20Two%20integers)             |    #228                  | ✅solved  |
+| 12        | Number of 1 Bits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%201%20bits%20)            |      #244        | ✅solved  |
+| 13        | Counting Bits                                      |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Counting%20bits)           |       #237                    | ✅solved  |
+| 14        | Missing Number                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Missing%20number)            |        #261          | ✅solved  |
+| 15        | Reverse Bits                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reverse%20Bits)            |  #271                    | ✅solved  |
+| 16        | Climbing Stairs                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Climbing%20Stairs)             |         #280 (opened)             | ✅solved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |

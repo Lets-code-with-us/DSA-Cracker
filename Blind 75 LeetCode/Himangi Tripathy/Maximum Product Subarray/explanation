@@ -1,0 +1,25 @@
+class Solution {
+    public int maxProduct(int[] nums) {
+        int ans = nums[0]; //we assigned ans to the 1st element of nums array
+    int dpMin = nums[0]; //we assigned dpMin to the 1st element of nums array
+    int dpMax = nums[0]; //we assigned dpMax to the 1st element of nums array
+
+    for (int i = 1; i < nums.length; ++i) {/*here we traverse the array from 2nd 
+        element of the nums array */
+      final int num = nums[i];//we set the final value of num to elements in the array
+      final int prevMin = dpMin; //we set the final value of prevMin to dpMin
+      final int prevMax = dpMax; //we set the final value of prevMax to dpMax
+      if (num < 0) {//if num is less than 0 then
+        dpMin = Math.min(prevMax * num, num);//dpMin is assigned to the minimum value of prevMax*num and num
+        dpMax = Math.max(prevMin * num, num);//dpMax is assigned to the maximum value of prevMin*num and num
+      } else {
+        dpMin = Math.min(prevMin * num, num);//dpMin is assigned to the minimum value of prevMin*num and num
+        dpMax = Math.max(prevMax * num, num);//dpMax is assigned to the maximum value of prevMax*num and num
+      }
+      ans = Math.max(ans, dpMax);//ans is assigned to the maximum value of ans and dpMax
+    }
+
+    return ans;//we return the ans
+        
+    }
+}
