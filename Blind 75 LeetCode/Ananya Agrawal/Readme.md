@@ -17,8 +17,8 @@
 | 15        | Reverse Bits                                       | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Reverse%20Bits/Main.java)            |     245                 | ✅ solved  |
 | 16        | Climbing Stairs                                    | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Climbing%20Stairs/Main.java)            |  259                    | ✅ solved   |
 | 17        | Coin Change                                        | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Coin%20Change/Main.java)            |    273                  | ✅ solved  |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
+| 18        | Longest Increasing Subsequence                     | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Longest%20Increasing%20Subsequences/Main.java)            |     285                 | ✅ solved |
+| 19        | Longest Common Subsequence                         | [solution](https://github.com/Ananya01Agrawal/DSA-Cracker/blob/patch-1/Blind%2075%20LeetCode/Ananya%20Agrawal/Longest%20Common%20Subsequence/Main.java)            |     286                 | ✅ solved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
 | 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
