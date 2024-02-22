@@ -16,7 +16,7 @@
 | 14        | Missing Number                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Missing%20number)            |        #261          | ✅solved  |
 | 15        | Reverse Bits                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reverse%20Bits)            |  #271                    | ✅solved  |
 | 16        | Climbing Stairs                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Climbing%20Stairs)             |         #280            | ✅solved  |
-| 17        | Coin Change                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/coin%20change)            |                      | ❓ Unsolved  |
+| 17        | Coin Change                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/coin%20change)            |       #292               | ✅Solved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
