@@ -20,7 +20,7 @@ Blind 75 LeetCode Challenge
 | 16        | Climbing Stairs                                    | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Climbing%20Stairs)            |   265                   | solved  |
 | 17        | Coin Change                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Coin%20Change)            |  275                    | solved  |
 | 18        | Longest Increasing Subsequence                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Increasing%20Subsequence)            |      282                | solved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
+| 19        | Longest Common Subsequence                         |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Common%20Subsequence)             |               290       | solved  |
 | 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
 | 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
