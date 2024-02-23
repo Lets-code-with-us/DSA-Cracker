@@ -19,7 +19,7 @@
 | 17        | Coin Change                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Coin%20change)| 272                  | ✅ solved  |
 | 18        | Longest Increasing Subsequence                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Increasing%20Subsequence)| 281                  | ✅ solved  |
 | 19        | Longest Common Subsequence                         |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Common%20Subsequence)|   291               | ✅ solved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Word%20break)|   299                | ✅ solved  |
 | 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
