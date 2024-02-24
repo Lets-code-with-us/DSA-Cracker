@@ -22,7 +22,7 @@ Blind 75 LeetCode Challenge
 | 18        | Longest Increasing Subsequence                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Increasing%20Subsequence)            |      282                | solved  |
 | 19        | Longest Common Subsequence                         |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Common%20Subsequence)             |               290       | solved  |
 | 20        | Word Break Problem                                 | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Word%20Break)            |      298                | solved  |
-| 21        | Combination Sum                                    |   [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Combination%20Sum)          |                      | solved  |
+| 21        | Combination Sum                                    |   [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Combination%20Sum)          |    305                  | solved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
