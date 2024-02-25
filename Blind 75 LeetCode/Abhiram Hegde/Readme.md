@@ -14,7 +14,7 @@
 | 12        | Number of 1 Bits                                   |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Number%20of%201%20Bits)         |           294           | ✅ Solved  |
 | 13        | Counting Bits                                      |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Counting%20Bits)       |        302              | ✅ Solved  |
 | 14        | Missing Number                                     |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Missing%20Number)         |      309                | ✅ Solved |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 15        | Reverse Bits                                       |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Reverse%20Bits)         |           315           | ✅ Solved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
