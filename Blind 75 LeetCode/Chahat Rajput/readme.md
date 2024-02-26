@@ -21,7 +21,7 @@
 | 19        | Longest Common Subsequence|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Longest%20Common%20Subsequence/commom_sub.cpp)             |      288                | ✅Solved  |
 | 20        | Word Break Problem|[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Word%20Break%20Problem/word_break.cpp)            |   295                   | ✅Solved  |
 | 21        | Combination Sum  | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Combination%20Sum/combination_sum.cpp)            |     306                 | ✅Solved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
+| 22        | House Robber                                       |  [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/House%20Robber/house_robber.cpp)           |         313             | ✅Solved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
