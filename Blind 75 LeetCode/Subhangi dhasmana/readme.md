@@ -18,11 +18,11 @@
 | 16        | Climbing Stairs                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Climbing%20stairs)|  260                 | ✅ solved  |
 | 17        | Coin Change                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Coin%20change)| 272                  | ✅ solved  |
 | 18        | Longest Increasing Subsequence                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Increasing%20Subsequence)| 281                  | ✅ solved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
+| 19        | Longest Common Subsequence                         |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Common%20Subsequence)|   291               | ✅ solved  |
+| 20        | Word Break Problem                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Word%20break)|   299                | ✅ solved  |
+| 21        | Combination Sum                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Combination%20sum)|   303                | ✅ solved  |
+| 22        | House Robber                                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber)|   310               | ✅ solved  |
+| 23        | House Robber II                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber%II)|  318                | ✅ solved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
