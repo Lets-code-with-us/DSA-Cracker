@@ -19,9 +19,9 @@
 | 17        | Coin Change                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/coin%20change)            |       #292               | ✅Solved  |
 | 18        | Longest Increasing Subsequence                     |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20increasing%20subsequence.)             |   #297                   | ✅solved  |
 | 19        | Longest Common Subsequence                         | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20common%20subsequence)            |      #304                | ✅solved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Break)            |         #312             | ✅solved  |
+| 21        | Combination Sum                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Combination%20Sum)             |      #312                | ✅solved  |
+| 22        | House Robber                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robbed)            |      #324                | ✅solved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |

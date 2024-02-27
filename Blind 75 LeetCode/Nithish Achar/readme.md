@@ -12,8 +12,8 @@
 | 10        | Container With Most Water                          |[source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)               |  293                   |✅ solved  |
 | 11        | Sum of Two Integers                                | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             |  301                    | ✅solved  |
 | 12        | Number of 1 Bits                                   |[source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)               |  308                    |✅solved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
+| 13        | Counting Bits                                      | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                   |  316                    |✅solved  |
+| 14        | Missing Number                                     |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             |   322                   |✅solved  |
 | 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
 | 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
