@@ -22,8 +22,8 @@
 | 20        | Word Break Problem                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Word%20break)|   299                | ✅ solved  |
 | 21        | Combination Sum                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Combination%20sum)|   303                | ✅ solved  |
 | 22        | House Robber                                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber)|   310               | ✅ solved  |
-| 23        | House Robber II                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber%II)|  318                | ✅ solved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
+| 23        | House Robber II                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber%20II)|  318                | ✅ solved  |
+| 24        | Decode Ways                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Decode%20ways)|    329              | ✅ solved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
