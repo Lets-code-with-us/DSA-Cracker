@@ -22,7 +22,7 @@
 | 20        | Word Break Problem                                 | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Break)            |         #312             | ✅solved  |
 | 21        | Combination Sum                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Combination%20Sum)             |      #312                | ✅solved  |
 | 22        | House Robber                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robbed)            |      #324                | ✅solved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
+| 23        | House Robber II                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robber%20II)            |      #331                |✅solved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
