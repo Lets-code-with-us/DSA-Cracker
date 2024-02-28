@@ -9,7 +9,7 @@
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
+| 10        | Container With Most Water                          |  [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/container_with_most_water)           |                      | ✅ solved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
