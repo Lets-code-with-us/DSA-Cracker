@@ -1,6 +1,6 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
-| 1         | Two Sum                                            |             |                      | ❓ Unsolved  |
+| 1         | Two Sum                                            | [Source Code](https://github.com/dhruvabhat24/DSA-Cracker-/tree/main/Blind%2075%20LeetCode/Dhruva%20Bhat/Maximum%20Subarray)  |                      |  ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | ❓ Unsolved  |
 | 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
 | 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
