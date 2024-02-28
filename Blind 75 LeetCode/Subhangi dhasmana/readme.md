@@ -3,28 +3,28 @@
 | 1         | Two Sum                                            |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Two%20sum)|        41             | ✅ solved    |
 | 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Best%20time%20to%20buy%20and%20sell%20stocks)|   68                 | ✅ solved  |
 | 3         | Contains Duplicate                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Contains%20duplicate)|     86                 | ✅ solved   |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
-| 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Product%20of%20array%20except%20self)|       102               | ✅ solved  |
+| 5         | Maximum Subarray                                   |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Maximum%20subarray)|  122                  | ✅ solved   |
+| 6         | Maximum Product Subarray                           |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Maximum%20Product%20Subarray)|   134                   | ✅ solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Find%20Minimum%20in%20Rotated%20Sorted%20Array)|       148             | ✅ solved  |
+| 8         | Search in Rotated Sorted Array                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Search%20in%20Rotated%20Sorted%20Array)|  164                 | ✅ solved  |
+| 9         | 3 Sum                                              |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/3%20Sum)|     179              | ✅ solved  |
+| 10        | Container With Most Water                          |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Container%20With%20Most%20Water)|   190                | ✅ solved   |
+| 11        | Sum of Two Integers                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Sum%20of%20two%20integers)|198               | ✅ solved  |
+| 12        | Number of 1 Bits                                   |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Number%20of%201%20Bits)| 215                  | ✅ solved  |
+| 13        | Counting Bits                                      |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Counting%20Bits)|     221              | ✅ solved  |
+| 14        | Missing Number                                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Missing%20number)|    238               | ✅ solved  |
+| 15        | Reverse Bits                                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Reverse%20Bits)|     254              | ✅ solved  |
+| 16        | Climbing Stairs                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Climbing%20stairs)|  260                 | ✅ solved  |
+| 17        | Coin Change                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Coin%20change)| 272                  | ✅ solved  |
+| 18        | Longest Increasing Subsequence                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Increasing%20Subsequence)| 281                  | ✅ solved  |
+| 19        | Longest Common Subsequence                         |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Common%20Subsequence)|   291               | ✅ solved  |
+| 20        | Word Break Problem                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Word%20break)|   299                | ✅ solved  |
+| 21        | Combination Sum                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Combination%20sum)|   303                | ✅ solved  |
+| 22        | House Robber                                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber)|   310               | ✅ solved  |
+| 23        | House Robber II                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/House%20robber%20II)|  318                | ✅ solved  |
+| 24        | Decode Ways                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Decode%20ways)|    329              | ✅ solved  |
+| 25        | Unique Paths                                       |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Unique%20paths)|  333                 | ✅ solved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
 | 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
