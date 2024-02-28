@@ -23,7 +23,7 @@
 | 21        | Combination Sum  | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Combination%20Sum/combination_sum.cpp)            |     306                 | ✅Solved  |
 | 22        | House Robber                                       |  [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/House%20Robber/house_robber.cpp)           |         313             | ✅Solved  |
 | 23        | House Robber II                                    |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/House%20Robber2/house_robber2.cpp)           |       319               | ✅Solved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
+| 24        | Decode Ways                                        | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Decode%20Ways/decode_ways.cpp)      |        326              | ✅Solved  |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
