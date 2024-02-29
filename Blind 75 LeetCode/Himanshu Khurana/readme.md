@@ -8,7 +8,7 @@
 | 6         | Maximum Product Subarray                           |    [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/max_product_subarray)         |                      | ✅ solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
+| 9         | 3 Sum                                              |  [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/Three%20Sum)           |                      | ✅ solved  |
 | 10        | Container With Most Water                          |  [Solution](https://github.com/himanshukhurana2324/DSA/tree/main/arrays/container_with_most_water)           |                      | ✅ solved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
