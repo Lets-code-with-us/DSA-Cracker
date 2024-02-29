@@ -15,7 +15,7 @@
 | 13        | Counting Bits                                      | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                   |  316                    |✅solved  |
 | 14        | Missing Number                                     |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             |   322                   |✅solved  |
 | 15        | Reverse Bits                                       |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                   |  338                    | ✅solved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
+| 16        | Climbing Stairs                                    | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                     |  344                    |✅solved  |
 | 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
