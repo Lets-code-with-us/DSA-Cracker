@@ -1,0 +1,17 @@
+In This We Have To find That Does any Element Has 2 more more Appearence or not .
+if does then return true or return false
+so , Simple Question for Map . Take A Map and put Integer as Key and occurence as Value . 
+like , Example :1 nums = [1,2,3,1]
+Take map for nums . put element at map. 
+
+syntax-> " store.put(nums[i], store.getOrDefault(nums[i],0)+1 ); " .
+
+ After done the put part . map Look like
+  [
+    1 -> 2 ,
+    2 -> 1 ,
+    3 -> 1 ,
+  ]  
+ means  1 has 2 times. and 2 has 1 times and 3 has 1 times . so clearly 1 has 2 times so return true. 
+
+

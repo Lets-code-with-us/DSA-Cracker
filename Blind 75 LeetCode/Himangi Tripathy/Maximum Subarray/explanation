@@ -1,0 +1,17 @@
+class Solution {
+    public int maxSubArray(int[] nums) {
+        int currMax=nums[0];//here we initialize currMax to 1st element of the nums array
+        int max=nums[0];//here we initialize max to 1st element of the nums array
+        for(int i=1;i<nums.length;i++){//here we traverse the nums array from 2nd element onwards
+            currMax= Math.max(nums[i],currMax+nums[i]);/*here we find out currMax by 
+            taking the maximum of nums[i] and currMax+nums[i] by doing this while traversing 
+            the array we get the maximum sum of subarray  till current position*/ 
+            if(currMax>max){/*here we compare the maximum of max and currmax,if currmax is greater
+                 than max */
+                max=currMax;//then max is assigned the value of currmax
+            }
+        }
+        return max;//here we return max
+    }
+   
+}
