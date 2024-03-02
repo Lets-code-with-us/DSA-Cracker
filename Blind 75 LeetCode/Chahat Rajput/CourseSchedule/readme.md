@@ -4,11 +4,13 @@ Approach:-Just to find that is there any cycle in graph then no topological sort
 
 **Keys Points to solve it**
 
-#Topological Sort
+**BFS or DFS
 
-*Kahn's Algorithm
+**Topological Sort
 
-*Cycle Detection
+**Kahn's Algorithm
+
+**Cycle Detection
 
 **Detailed Approach**
 
