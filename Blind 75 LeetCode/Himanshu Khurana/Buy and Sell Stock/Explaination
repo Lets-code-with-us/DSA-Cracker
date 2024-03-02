@@ -1,5 +1,0 @@
-Here :
-  At first we are assigning the 1st value to the minprice variable and using the IF-ELSE we are comparing the ahead values to that index and 
-  if the next is is found greater we are calculating the profit and by comparing the old profit the larger one is being updated to the profit variable.
-
-  If the new value in the array is fount smaller than the old min. price the if condition is updating the variable with that value .
