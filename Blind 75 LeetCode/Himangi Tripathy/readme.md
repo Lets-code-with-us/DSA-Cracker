@@ -29,7 +29,7 @@ Blind 75 LeetCode Challenge
 | 25        | Unique Paths                                       |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Unique%20Paths)             |     332                 | solved  |
 | 26        | Jump Game                                          |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Jump%20Game)             |       340               | solved  |
 | 27        | Clone Graph                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Clone%20Graph)            |    346                  | solved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
+| 28        | Course Schedule                                    |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Course%20Schedule)             |       355               | solved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
