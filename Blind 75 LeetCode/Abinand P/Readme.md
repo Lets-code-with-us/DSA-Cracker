@@ -24,7 +24,7 @@
 | 22        | House Robber                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robbed)            |      #324                | ✅solved  |
 | 23        | House Robber II                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robber%20II)            |      #331                |✅solved  |
 | 24        | Decode Ways                                        |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Decode%20Ways)             |         #349             | ✅solved  |
-| 25        | Unique Paths                                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Unique%20Paths)             |                      |✅solved  |
+| 25        | Unique Paths                                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Unique%20Paths)             |         #354             |✅solved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
 | 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
