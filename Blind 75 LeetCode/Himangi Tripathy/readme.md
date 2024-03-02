@@ -27,8 +27,8 @@ Blind 75 LeetCode Challenge
 | 23        | House Robber II                                    |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/House%20Robber%20II)             |                 317     | solved  |
 | 24        | Decode Ways                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Decode%20Ways)            |    328                  | solved  |
 | 25        | Unique Paths                                       |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Unique%20Paths)             |     332                 | solved  |
-| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
-| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
+| 26        | Jump Game                                          |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Jump%20Game)             |       340               | solved  |
+| 27        | Clone Graph                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Clone%20Graph)            |    346                  | solved  |
 | 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |

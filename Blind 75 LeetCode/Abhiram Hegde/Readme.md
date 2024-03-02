@@ -17,9 +17,9 @@
 | 15        | Reverse Bits                                       |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Reverse%20Bits)         |           315           | ✅ Solved  |
 | 16        | Climbing Stairs                                    |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Climbing%20Stairs)        |         330             | ✅ Solved |
 | 17        | Coin Change                                        |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Coin%20Change)       |          334            | ✅ Solved   |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
+| 18        | Longest Increasing Subsequence                     |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Increasing%20Subsequence)       |           339         | ✅ Solved   |
+| 19        | Longest Common Subsequence                         |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Common%20Subsequence)       |            351          | ✅ Solved |
+| 20        | Word Break Problem                                 |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Word%20Break)         |          353            | ✅ Solved  |
 | 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
