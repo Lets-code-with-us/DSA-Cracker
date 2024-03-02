@@ -3,9 +3,11 @@ Explanation:-Course Schedule
 Approach:-Just to find that is there any cycle in graph then no topological sort will be created so in that way we solve this problem.Have to check cycle present in graph 
 
 **Keys Points to solve it**
--Topological Sort
--Kahn's Algorithm
--Cycle Detection
+*Topological Sort
+
+*Kahn's Algorithm
+
+*Cycle Detection
 
 **Detailed Approach**
 
@@ -21,4 +23,5 @@ Approach:-Just to find that is there any cycle in graph then no topological sort
 **Complexity**
 
 Time:-O(V+E),for BFS
+
 Space:-O(V),for hash map
