@@ -1,0 +1,10 @@
+This Java function `getSum` takes two integers `a` and `b` as input and returns their sum without using the `+` operator. Here's a breakdown of how it works:
+
+1. It iterates through the loop until there is no carry left.
+2. Inside the loop:
+   - It calculates the carry by performing a bitwise AND operation (`&`) between `a` and `b`, which results in setting bits that are common in both `a` and `b`.
+   - It updates `a` by performing a bitwise XOR operation (`^`) between `a` and `b`. This operation effectively adds the bits of `a` and `b` where at least one of the bits is not set.
+   - It updates `b` by left shifting the carry by one position (`carry << 1`). This prepares the carry for the next addition.
+3. Once the loop finishes (when there is no carry left), it returns the final sum stored in `a`.
+
+In essence, this approach simulates the addition process without using the conventional arithmetic operators, instead relying on bitwise operations to handle carry and sum calculation.
