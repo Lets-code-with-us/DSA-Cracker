@@ -7,10 +7,10 @@
 | 5         | Maximum Subarray                                   |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Maximum%20Subarray)          |      359                 | ✅ solved   |
 | 6         | Maximum Product Subarray                           |  [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/max_product_subarray)         |      359                 | ✅ solved  |
 | 7         | Find Minimum in Rotated Sorted Array               |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/min_in_rotated_array)        |        359               | ✅ solved  |
-| 8         | Search in Rotated Sorted Array                     |    [Solution]         |                      | ❓ Unsolved  |
+| 8         | Search in Rotated Sorted Array                     |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/search_in_the_rotated_array)        |                      | ✅ solved  |
 | 9         | 3 Sum                                              |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Three%20Sum)      |       359                | ✅ solved  |
 | 10        | Container With Most Water                          |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/container_with_most_water)         |       359                | ✅ solved  |
-| 11        | Sum of Two Integers                                |     [Solution]        |                      | ❓ Unsolved  |
+| 11        | Sum of Two Integers                                |     [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Sum_of_two_integers)        |                      | ✅ solved  |
 | 12        | Number of 1 Bits                                   |     [Solution]        |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
 | 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
