@@ -28,7 +28,7 @@
 | 26        | Jump Game                                          |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Jump%20game)|   341                | ✅ solved  |
 | 27        | Clone Graph                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Clone%20graph)|  347                 | ✅ solved  |
 | 28        | Course Schedule                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Course%20Schedule)|   352                | ✅ solved  |
-| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
+| 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Pacific%20Atlantic%20Water%20Flow)|  363                 | ✅ solved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
