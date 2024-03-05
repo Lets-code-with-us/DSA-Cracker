@@ -27,7 +27,7 @@
 | 25        | Unique Paths                                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Unique%20Paths)             |         #354             |✅solved  |
 | 26        | Jump Game                                          | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Jump%20Game)            |          #367            | ✅solved  |
 | 27        | Clone Graph                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Clone%20Graph)            |       #376               | ✅solved  |
-| 28        | Course Schedule                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule)            |                      | ✅solved  |
+| 28        | Course Schedule                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule)            |      #378                | ✅solved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
