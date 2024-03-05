@@ -32,7 +32,7 @@ Blind 75 LeetCode Challenge
 | 28        | Course Schedule                                    |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Course%20Schedule)             |       355               | solved  |
 | 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Pacific%20Atlantic%20Water%20Flow)             |       364               | solved  |
 | 30        | Number of Islands                                  | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Number%20of%20Islands)            |   371                   | solved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
+| 31        | Longest Consecutive Sequence                        |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Consecutive%20Sequence)             |                      | solved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
 | 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
