@@ -30,7 +30,7 @@
 | 28        | Course Schedule                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Course%20Schedule)|   352                | ✅ solved  |
 | 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Pacific%20Atlantic%20Water%20Flow)|  363                 | ✅ solved  |
 | 30        | Number of Islands                                  |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Number%20of%20Islands)|   372               | ✅ solved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
+| 31        | Longest Consecutive Sequence                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Consecutive%20Sequence)| 379                 | ✅ solved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
 | 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
