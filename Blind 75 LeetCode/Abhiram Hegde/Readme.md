@@ -23,7 +23,7 @@
 | 21        | Combination Sum                                    |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Combination%20Sum)        |         362             | ✅ Solved  |
 | 22        | House Robber                                       | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/House%20Robber)        |           373           | ✅ Solved  |
 | 23        | House Robber II                                    |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/House%20Robber%20II)          |          380            | ✅ Solved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
+| 24        | Decode Ways                                        | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Decode%20Ways)        |          385            | ✅ Solved |
 | 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
 | 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
