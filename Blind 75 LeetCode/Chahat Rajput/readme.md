@@ -30,8 +30,8 @@
 | 28        | Course Schedule                                    |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/CourseSchedule/course_schedule.cpp)             |     360                 | ✅Solved  |
 | 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Pacific_Atlantic_Ocean/pacific_atl.cpp)             |      365                | ✅Solved  |
 | 30        | Number of Islands                                  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Number_of_islands/number_of_islands.cpp)             |         374             | ✅Solved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
+| 31        | Longest Consecutive Sequence                        |  [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/longest_Consecutive_sequence/longest_sequence.cpp)           |      382                | ✅Solved  |
+| 32        | Course Schedule II                                 | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/CourseSchedule-2/course_schedule2.cpp)            |      386                | ✅Solved  |
 | 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |

@@ -19,8 +19,8 @@
 | 17        | Coin Change                                        |[source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)              |    350                  | ✅solved  |
 | 18        | Longest Increasing Subsequence                     | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)            |    357                  | ✅solved  |
 | 19        | Longest Common Subsequence                         | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                       | 368                     |✅solved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)              |      377                |✅solved  |
+| 21        | Combination Sum                                    |[source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             |      377                |✅ solved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
