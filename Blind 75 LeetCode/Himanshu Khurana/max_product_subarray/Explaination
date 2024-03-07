@@ -1,0 +1,13 @@
+This Java class `Solution` provides a method `maxProduct` to find the maximum product of a contiguous subarray within an integer array `nums`. Here's a breakdown of the code:
+
+1. `public int maxProduct(int[] nums)`: This method takes an integer array `nums` as input and returns the maximum product of a contiguous subarray.
+
+2. `int maxCurrent = nums[0];` and `int maxGlobal = nums[0];`: These variables are initialized to keep track of the maximum product found so far (`maxCurrent`) and the maximum product across all subarrays (`maxGlobal`). Both are initially set to the first element of the array.
+
+3. The loop (`for` loop) iterates through the array starting from the second element (`i = 1`):
+   - `maxCurrent = Math.max(nums[i], maxCurrent * nums[i]);`: This line calculates the maximum product up to the current element `nums[i]` by considering either `nums[i]` alone or the product of the previous maximum and `nums[i]`.
+   - `if (maxCurrent > maxGlobal) { maxGlobal = maxCurrent; }`: If the current maximum product (`maxCurrent`) is greater than the global maximum product (`maxGlobal`), it updates `maxGlobal` to `maxCurrent`.
+
+4. Finally, the method returns `maxGlobal`, which represents the maximum product of a contiguous subarray within the input array `nums`.
+
+5. The code includes a comment stating that Kadane's algorithm is used to optimize the solution. Kadane's algorithm is indeed utilized here to efficiently find the maximum product of contiguous subarrays.
