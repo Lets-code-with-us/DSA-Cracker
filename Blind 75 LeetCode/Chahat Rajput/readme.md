@@ -32,7 +32,7 @@
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
+| 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)             |                      | ✅Solved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
