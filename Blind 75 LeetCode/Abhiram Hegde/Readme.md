@@ -21,12 +21,12 @@
 | 19        | Longest Common Subsequence                         |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Common%20Subsequence)       |            351          | ✅ Solved |
 | 20        | Word Break Problem                                 |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Word%20Break)         |          353            | ✅ Solved  |
 | 21        | Combination Sum                                    |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Combination%20Sum)        |         362             | ✅ Solved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
-| 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
-| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
-| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
+| 22        | House Robber                                       | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/House%20Robber)        |           373           | ✅ Solved  |
+| 23        | House Robber II                                    |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/House%20Robber%20II)          |          380            | ✅ Solved  |
+| 24        | Decode Ways                                        | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Decode%20Ways)        |          385            | ✅ Solved |
+| 25        | Unique Paths                                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Unique%20Paths)          |          394            | ✅ Solved  |
+| 26        | Jump Game                                          |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Jump%20Game)         |         399             | ✅ Solved  |
+| 27        | Clone Graph                                        |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Clone%20Graph)         |          404            | ✅ Solved  |
 | 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |

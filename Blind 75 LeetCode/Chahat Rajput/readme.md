@@ -2,7 +2,37 @@
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Two%20Sum/TwoSum.cpp)  | 52  | ✅ Solved  |
 | 2         | Best Time to Buy and Sell Stock                   |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Buy_and_sell_stock/Buy_and_sell_stock.cpp)|   72|✅Solved  |
-| 3         | Contains Duplicate| [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Contains%20Duplicate/contains_duplicate.cpp)            |   91 | ✅Solved  |
+| 3         | Contains Duplicate| [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Contains%20Duplicate/contains_duplicate.cpp)            |   91 | ✅Solved 
+| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
+| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
+| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
+| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
+| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
+| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
+| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
+| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
+| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
+| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
+| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
+| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
+| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
+| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
+| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
+| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
+| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
+| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
+| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
+| 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
+| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
+| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
+| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
+| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
+| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
+| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
+| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
+| 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)             |      392                | ✅Solved 
 | 4         | Product of Array Except Self |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Product_array_itself/product_array_itself.cpp)             |       109               | ✅Solved  |
 | 5         | Maximum Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Subarray/maximum_subarray.cpp)             |              117        | ✅Solved  |
 | 6         | Maximum Product Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Product_Subarray/maxi_product.cpp)            |         130             | ✅Solved  |
@@ -29,10 +59,10 @@
 | 27        | Clone Graph                                        | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Clone%20Graph/clone_graph.cpp)           |      360                | ✅Solved  |
 | 28        | Course Schedule                                    |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/CourseSchedule/course_schedule.cpp)             |     360                 | ✅Solved  |
 | 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Pacific_Atlantic_Ocean/pacific_atl.cpp)             |      365                | ✅Solved  |
-| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
+| 30        | Number of Islands                                  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Number_of_islands/number_of_islands.cpp)             |         374             | ✅Solved  |
+| 31        | Longest Consecutive Sequence                        |  [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/longest_Consecutive_sequence/longest_sequence.cpp)           |      382                | ✅Solved  |
+| 32        | Course Schedule II                                 | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/CourseSchedule-2/course_schedule2.cpp)            |      386                | ✅Solved  |
+| 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)           |    392                  | ✅Solved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |

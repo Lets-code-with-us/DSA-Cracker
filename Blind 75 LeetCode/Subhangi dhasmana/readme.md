@@ -29,12 +29,12 @@
 | 27        | Clone Graph                                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Clone%20graph)|  347                 | ✅ solved  |
 | 28        | Course Schedule                                    |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Course%20Schedule)|   352                | ✅ solved  |
 | 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Pacific%20Atlantic%20Water%20Flow)|  363                 | ✅ solved  |
-| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
-| 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
-| 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
+| 30        | Number of Islands                                  |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Number%20of%20Islands)|   372               | ✅ solved  |
+| 31        | Longest Consecutive Sequence                        |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Longest%20Consecutive%20Sequence)| 379                 | ✅ solved  |
+| 32        | Course Schedule II                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Course%20Schedule%20II)|         388          | ✅ solved  |
+| 33        | Minimum Height Trees                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Minimum%20Height%20Trees)|  396                 | ✅ solved  |
+| 34        | Reconstruct Itinerary                               |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Reconstruct%20Itinerary)|   401               | ✅ solved  |
+| 35        | Insert Interval                                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Insert%20Interval)|    403               | ✅ solved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
 | 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
