@@ -32,7 +32,7 @@
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)             |      392                | ✅Solved 
+| 33        | Minimum Height Trees                                |           |                      | ✅Solved 
 | 4         | Product of Array Except Self |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Product_array_itself/product_array_itself.cpp)             |       109               | ✅Solved  |
 | 5         | Maximum Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Subarray/maximum_subarray.cpp)             |              117        | ✅Solved  |
 | 6         | Maximum Product Subarray  |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Maximum_Product_Subarray/maxi_product.cpp)            |         130             | ✅Solved  |
