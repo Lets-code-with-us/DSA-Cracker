@@ -34,7 +34,7 @@
 | 32        | Course Schedule II                                 |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Course%20Schedule%20II)|         388          | ✅ solved  |
 | 33        | Minimum Height Trees                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Minimum%20Height%20Trees)|  396                 | ✅ solved  |
 | 34        | Reconstruct Itinerary                               |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Reconstruct%20Itinerary)|   401               | ✅ solved  |
-| 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
+| 35        | Insert Interval                                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Insert%20Interval)|    403               | ✅ solved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
 | 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
