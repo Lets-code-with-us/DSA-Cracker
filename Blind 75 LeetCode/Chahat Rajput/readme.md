@@ -33,8 +33,8 @@
 | 31        | Longest Consecutive Sequence                        |  [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/longest_Consecutive_sequence/longest_sequence.cpp)           |      382                | ✅Solved  |
 | 32        | Course Schedule II                                 | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/CourseSchedule-2/course_schedule2.cpp)            |      386                | ✅Solved  |
 | 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)           |    392                  | ✅Solved  |
-| 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
-| 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
+| 34        | Reconstruct Itinerary                               |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Reconstruct_Iteratiary/reconstruct_code.cpp)            |          402            | ✅Solved   |
+| 35        | Insert Interval                                     |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Insert%20Intervals/insert_intervals.cpp)             |         402             | ✅Solved   |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
 | 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
