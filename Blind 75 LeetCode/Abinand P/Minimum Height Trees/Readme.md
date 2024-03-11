@@ -17,31 +17,35 @@ A vector of integers representing the nodes that form the minimum height trees (
 
 #### Approach
 
-1. **Initialize Adjacency List:**
-   - Initialize an adjacency list `adj` to represent the undirected graph, where `adj[i]` contains a set of nodes connected to node `i`.
+1. **Initialize Adjacency List and Indegree Arrays:**
+   - Initialize an adjacency list `AL` to represent the undirected graph. Each node in `AL` contains a list of nodes connected to it.
+   - Initialize an indegree array `indegree` to keep track of the number of incoming edges for each node.
    - Iterate through each edge in `edges`:
-     - Add the opposite node to the adjacency list of both nodes in the edge.
-2. **Find Leaf Nodes:**
-   - Initialize an empty vector `leaves` to store leaf nodes.
+     - Add both nodes to each other's adjacency list in `AL`.
+     - Increment the indegree of both nodes in the `indegree` array.
+2. **Find Initial Leaves and Queue Initialization:**
+   - Initialize an empty queue `q`.
+   - Initialize an empty vector `ans` to store the nodes forming the MHTs.
    - Iterate through each node in the graph:
-     - If the number of nodes connected to the current node is 1 (i.e., it is a leaf node), add it to the `leaves` vector.
-3. **Iterative Pruning:**
-   - While the total number of nodes in the graph is greater than 2:
-     - Reduce the total number of nodes by the number of leaf nodes.
-     - Initialize an empty vector `newLeaves` to store new leaf nodes.
-     - Iterate through each leaf node in `leaves`:
-       - Find its connected node `j`.
-       - Remove the leaf node from the adjacency list of `j`.
-       - If the number of nodes connected to `j` becomes 1 after removal (i.e., it becomes a new leaf node), add `j` to the `newLeaves` vector.
-     - Update `leaves` to `newLeaves`.
+     - If the indegree of a node is 1 (i.e., it is a leaf node), push it onto the queue.
+3. **Breadth-First Search (BFS):**
+   - While the queue is not empty:
+     - Store the current size of the queue `sz`.
+     - Clear the `ans` vector to prepare for the next level of BFS traversal.
+     - Iterate through each node in the current level (based on `sz`):
+       - Remove the current node from the queue and add it to the `ans` vector.
+       - Decrement its indegree.
+       - Iterate through each neighbor of the current node:
+         - Decrement the indegree of the neighbor.
+         - If the neighbor becomes a leaf node (indegree equals 1), push it onto the queue.
 4. **Return Result:**
-   - Return the `leaves` vector, which represents the nodes forming the minimum height trees (MHTs).
+   - Return the `ans` vector, which represents the nodes forming the minimum height trees (MHTs).
 
 #### Time Complexity
 - The time complexity of this method is O(N), where N is the number of nodes in the tree.
-  - Constructing the adjacency list requires traversing the edges once, resulting in a linear time complexity.
-  - The iterative pruning process also runs in linear time, as each node is visited once.
+  - Constructing the adjacency list and the indegree array requires traversing the edges once, resulting in a linear time complexity.
+  - The BFS traversal also runs in linear time, as each node is visited once.
 
 #### Space Complexity
 - The space complexity of this method is O(N), where N is the number of nodes in the tree.
-  - The space used is dominated by the adjacency list and the vectors `leaves` and `newLeaves`, all of which can potentially store all nodes in the tree.
+  - The space used is dominated by the adjacency list, the indegree array, the queue, and the `ans` vector, all of which can potentially store all nodes in the tree.
