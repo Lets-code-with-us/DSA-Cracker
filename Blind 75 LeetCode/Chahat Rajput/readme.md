@@ -35,7 +35,7 @@
 | 33        | Minimum Height Trees                                |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Minimum_tree/minimum_height_tree.cpp)           |    392                  | ✅Solved  |
 | 34        | Reconstruct Itinerary                               |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Reconstruct_Iteratiary/reconstruct_code.cpp)            |          402            | ✅Solved   |
 | 35        | Insert Interval                                     |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Insert%20Intervals/insert_intervals.cpp)             |         402             | ✅Solved   |
-| 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
+| 36        | Merge Intervals                                     |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Merge%20Intervals/merge_intervals.cpp)             |         414             | ✅Solved  |
 | 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
 | 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
