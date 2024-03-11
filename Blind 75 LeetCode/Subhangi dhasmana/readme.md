@@ -35,8 +35,8 @@
 | 33        | Minimum Height Trees                                |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Minimum%20Height%20Trees)|  396                 | ✅ solved  |
 | 34        | Reconstruct Itinerary                               |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Reconstruct%20Itinerary)|   401               | ✅ solved  |
 | 35        | Insert Interval                                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Insert%20Interval)|    403               | ✅ solved  |
-| 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
-| 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
+| 36        | Merge Intervals                                     |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Merge%20Intervals)|   409                | ✅ solved  |
+| 37        | Non-overlapping Intervals                           |[Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Subhangi%20dhasmana/Non-overlapping%20Intervals)|     415              | ✅ solved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
 | 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |             |                      | ❓ Unsolved  |

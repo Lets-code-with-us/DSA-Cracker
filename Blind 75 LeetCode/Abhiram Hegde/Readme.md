@@ -27,8 +27,8 @@
 | 25        | Unique Paths                                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Unique%20Paths)          |          394            | ✅ Solved  |
 | 26        | Jump Game                                          |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Jump%20Game)         |         399             | ✅ Solved  |
 | 27        | Clone Graph                                        |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Clone%20Graph)         |          404            | ✅ Solved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
-| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
+| 28        | Course Schedule                                    |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Course%20Schedule)        |             411         | ✅ Solved  |
+| 29        | Pacific Atlantic Water Flow                        |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Pacific%20Atlantic%20Water%20Flow)        |          416           | ✅ Solved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
