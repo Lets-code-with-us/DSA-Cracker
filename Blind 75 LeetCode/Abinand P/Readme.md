@@ -26,13 +26,13 @@
 | 24        | Decode Ways                                        |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Decode%20Ways)             |         #349             | ✅solved  |
 | 25        | Unique Paths                                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Unique%20Paths)             |         #354             |✅solved  |
 | 26        | Jump Game                                          | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Jump%20Game)            |          #367            | ✅solved  |
-| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
-| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
-| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
+| 27        | Clone Graph                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Clone%20Graph)            |       #376               | ✅solved  |
+| 28        | Course Schedule                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule)            |      #378                | ✅solved  |
+| 29        | Pacific Atlantic Water Flow                        |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Pacific%20Atlantic%20Water%20Flow)             |      #384                |✅solved  |
+| 30        | Number of Islands                                  | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%20Islands)            |            #391          | ✅solved  |
+| 31        | Longest Consecutive Sequence                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20Consecutive%20Sequence)            |        #398              | ✅solved  |
+| 32        | Course Schedule II                                 |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule%20II)             |          #412            | ✅solved  |
+| 33        | Minimum Height Trees                                | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Minimum%20Height%20Trees)            |    #413                  | ✅solved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
