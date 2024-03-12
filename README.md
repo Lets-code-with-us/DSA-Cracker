@@ -10,6 +10,7 @@
 
 Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorithms practice. This repository is organized in a way to help you systematically practice and master DSA concepts.
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
@@ -17,7 +18,6 @@ Welcome to DSA Cracker, your one-stop repository for Data Structures and Algorit
 - [Contributing](#contributing)
 - [Badges](#badges)
 - [License](#license)
-- [Top Contributors](#top-contributors)
 - [Repository Owners and maintainers](repository-owner-and-maintainers)
  
 
@@ -57,15 +57,6 @@ Here are some badges representing the status of the repository:
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Top Contributors 
-| Rank | Profile Image | Contributor Name | Questions Solved |
-|------|---------------|-------------------|------------------|
-| 1    | <img src="https://avatars.githubusercontent.com/u/137926389?v=4" alt="Profile Image 2" width="50"/> | [Ankur Agrawal](https://github.com/mass-Eve)            | 8 |
-| 2    | <img src="https://avatars.githubusercontent.com/u/122305929?v=4" alt="Profile Image 1" width="50"/> | [Dhruva Bhat](https://github.com.dhruvabhat24)         | 6  |
-| 3    | <img src="https://avatars.githubusercontent.com/u/122141906?v=4" alt="Profile Image 2" width="50"/> | [pradyumna100903](https://github.com/pradyumna100903)       | 1 |
-| 3    | <img src="https://avatars.githubusercontent.com/u/145255212?v=4" alt="Profile Image 3" width="50"/> | [Abiji-2020](https://github.com/Abiji-2020)| 1 |
-<!--| 4    | <img src="link_to_image_4" alt="Profile Image 4" width="50"/> | Alice Brown      | 75               |
-| 5    | <img src="link_to_image_5" alt="Profile Image 5" width="50"/> | Chris Wilson     | 70               | -->
 # Repository Owner and Maintainer
 
 ## Repository Owner

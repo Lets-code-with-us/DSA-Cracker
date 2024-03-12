@@ -1,0 +1,11 @@
+class Solution {
+    public int search(int[] nums, int target) {
+        int indx=-1;//here we initialized indx to -1
+        for(int i=0;i<nums.length;i++){//here we traverse the nums array
+            if(nums[i]==target){//here we compare elements in the nums array with the target value if the element in the nums array is same as the target value then 
+                indx=i;//the index of that element is assigned to the indx
+            }
+        }
+        return indx;//return indx
+    }
+}
