@@ -33,7 +33,7 @@
 | 31        | Longest Consecutive Sequence                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20Consecutive%20Sequence)            |        #398              | ✅solved  |
 | 32        | Course Schedule II                                 |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule%20II)             |          #412            | ✅solved  |
 | 33        | Minimum Height Trees                                | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Minimum%20Height%20Trees)            |    #413                  | ✅solved  |
-| 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
+| 34        | Reconstruct Itinerary                               | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reconstruct%20Itinerary)            |            #419          | ✅solved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
 | 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
