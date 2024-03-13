@@ -11,16 +11,16 @@
 | 9         | 3 Sum                                              |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Three%20Sum)      |       359                | ✅ solved  |
 | 10        | Container With Most Water                          |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/container_with_most_water)         |       359                | ✅ solved  |
 | 11        | Sum of Two Integers                                |     [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Sum_of_two_integers)        |                      | ✅ solved  |
-| 12        | Number of 1 Bits                                   |     [Solution]()      |                      | ✅ solved  |
+| 12        | Number of 1 Bits                                   |     [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/no._of_1_bits)      |                      | ✅ solved  |
 | 13        | Counting Bits                                      |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/counting_bits)          |                      | ✅ solved  |
-| 14        | Missing Number                                     |   [Solution]()          |                      | ✅ solved  |
+| 14        | Missing Number                                     |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/missing_number)          |                      | ✅ solved  |
 | 15        | Reverse Bits                                       |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/reverse_bits)          |                      | ✅ solved  |
-| 16        | Climbing Stairs                                    | [Solution]()            |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |  [Solution]()           |                      | ❓ Unsolved  |
-| 18        | Longest Increasing Subsequence                     |  [Solution]()           |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |  [Solution]()           |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |  [Solution]()           |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |  [Solution]()           |                      | ❓ Unsolved  |
+| 16        | Climbing Stairs                                    |            |                      | ❓ Unsolved  |
+| 17        | Coin Change                                        |            |                      | ❓ Unsolved  |
+| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
+| 19        | Longest Common Subsequence                         |            |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 |           |                      | ❓ Unsolved  |
+| 21        | Combination Sum                                    |            |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
