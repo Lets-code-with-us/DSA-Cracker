@@ -1,0 +1,11 @@
+This Java code defines a class `Solution` with a method `reverseBits` to reverse the bits of a 32-bit unsigned integer `n`.
+
+Explanation:
+- The method `reverseBits` takes an integer `n`.
+- It initializes an integer `result` to 0 to store the reversed bits.
+- It iterates 32 times since it's dealing with a 32-bit integer.
+- Inside the loop, it shifts the bits of `result` to the left by 1 position using the left shift operator `<<= 1`.
+- It appends the last bit of `n` to `result` by performing a bitwise AND operation `(n & 1)` and then using the bitwise OR operator `|=` to set the corresponding bit in `result`.
+- After appending the last bit, it shifts the bits of `n` to the right by 1 position using the right shift operator `>>= 1`.
+- This process repeats for all 32 bits of `n`.
+- Finally, it returns the `result`, which represents `n` with its bits reversed.
