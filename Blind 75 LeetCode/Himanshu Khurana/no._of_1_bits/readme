@@ -1,0 +1,11 @@
+This Java code defines a class `Solution` with a method `hammingWeight` to calculate the Hamming weight (the number of set bits) of a given integer `n` when treated as an unsigned value.
+
+Explanation:
+- The `hammingWeight` method takes an integer `n`.
+- It initializes a variable `count` to 0 to keep track of the number of set bits.
+- It enters a `while` loop that continues until `n` becomes 0.
+- Inside the loop, it checks the least significant bit (LSB) of `n` using the bitwise AND operation `n & 1`.
+  - If the LSB is 1, it increments the `count` by 1.
+- Then, it right shifts `n` by 1 bit using the unsigned right shift operator `>>>=`.
+- This process continues until `n` becomes 0.
+- Finally, it returns the count, which represents the number of set bits in the binary representation of `n`.
