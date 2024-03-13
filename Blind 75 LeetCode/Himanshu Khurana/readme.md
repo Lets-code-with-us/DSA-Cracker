@@ -15,7 +15,7 @@
 | 13        | Counting Bits                                      |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/counting_bits)          |                      | ✅ solved  |
 | 14        | Missing Number                                     |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/missing_number)          |                      | ✅ solved  |
 | 15        | Reverse Bits                                       |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/reverse_bits)          |                      | ✅ solved  |
-| 16        | Climbing Stairs                                    |            |                      | ❓ Unsolved  |
+| 16        | Climbing Stairs                                    |  [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Climbing_Stairs)          |                      | ✅ solved |
 | 17        | Coin Change                                        |            |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
 | 19        | Longest Common Subsequence                         |            |                      | ❓ Unsolved  |
