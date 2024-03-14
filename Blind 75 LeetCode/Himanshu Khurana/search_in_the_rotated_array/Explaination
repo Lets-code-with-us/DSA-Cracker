@@ -1,0 +1,23 @@
+This Java code implements the binary search algorithm to find a target element in a rotated sorted array. Here's a brief explanation:
+
+1. Initialize two pointers, `left` and `right`, to the start and end of the array respectively.
+
+2. While `left` is less than or equal to `right`, continue the search.
+
+3. Calculate the middle index (`mid`) of the current array segment.
+
+4. Check if the middle element is the target. If it is, return its index.
+
+5. Check if the left half of the array is sorted (`nums[left] <= nums[mid]`):
+   - If the target is within the sorted left half (`nums[left] <= target < nums[mid]`), adjust the `right` pointer to `mid - 1`.
+   - Otherwise, adjust the `left` pointer to `mid + 1`.
+
+6. If the left half is not sorted, then the right half must be sorted:
+   - If the target is within the sorted right half (`nums[mid] < target <= nums[right]`), adjust the `left` pointer to `mid + 1`.
+   - Otherwise, adjust the `right` pointer to `mid - 1`.
+
+7. Repeat steps 2-6 until the target is found or the search space is exhausted.
+
+8. If the target is not found, return -1.
+
+This approach allows for searching in a rotated sorted array in O(log n) time complexity, where n is the number of elements in the array.

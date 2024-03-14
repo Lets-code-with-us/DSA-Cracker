@@ -1,0 +1,8 @@
+
+1. The purpose of this code is to generate an array `arr` where each element represents the count of set bits (number of 1s) in the binary representation of the corresponding index.
+2. The array `arr` has a length of `n + 1`, where `n` is the input integer.
+3. The loop iterates from `1` to `n`, and for each index `i`, it calculates the count of set bits using the formula: `arr[i] = arr[i & (i - 1)] + 1`.
+4. The expression `i & (i - 1)` effectively unsets the rightmost set bit in the binary representation of `i`. By adding `1` to the count of set bits in the previous index, we get the count for the current index.
+5. Finally, the array `arr` is returned.
+
+This approach efficiently computes the set bit count for each number from `0` to `n`. The time complexity is O(n), and the space complexity is O(n) as well .

@@ -1,0 +1,17 @@
+This Java class `Solution` provides a method `setZeroes` to modify a matrix in-place such that if an element in the original matrix is 0, its entire row and column are set to 0. Here's a breakdown of the code:
+
+1. `public void setZeroes(int[][] mat)`: This method takes a 2D integer array `mat` as input and modifies it in-place according to the requirements.
+
+2. `int rows = mat.length;` and `int cols = mat[0].length;`: These variables store the number of rows and columns in the matrix `mat`, respectively.
+
+3. Two boolean arrays `rowZero` and `colZero` are initialized with sizes equal to the number of rows and columns, respectively. These arrays are used to track which rows and columns need to be zeroed out.
+
+4. The code iterates through the matrix to find zeros and updates the `rowZero` and `colZero` arrays accordingly. If an element in the matrix is 0, the corresponding row and column are marked as needing to be zeroed out.
+
+5. After identifying rows and columns that need to be zeroed out, two separate loops are used to set zeros for rows and columns:
+   - The first loop iterates through each row and sets all elements in that row to 0 if the `rowZero` array indicates that the row needs to be zeroed out.
+   - The second loop iterates through each column and sets all elements in that column to 0 if the `colZero` array indicates that the column needs to be zeroed out.
+
+6. By the end of these operations, the matrix `mat` is modified in-place such that all rows and columns containing at least one zero are entirely set to 0.
+
+This code efficiently solves the problem in O(m * n) time complexity, where 'm' is the number of rows and 'n' is the number of columns in the matrix.

@@ -1,0 +1,18 @@
+
+This Java code defines a class `Solution` with a method `missingNumber` that takes an array of integers `nums` as input
+ and returns the missing number in the range [0, n].
+
+1. **Get the Length of the Input Array (`n`):**
+   - `int n = nums.length;`
+
+2. **Calculate the Total Sum (`totalSum`) of Numbers from 0 to n:**
+   - `int totalSum = n * (n + 1) / 2;`
+   - This is calculated using the formula for the sum of an arithmetic series.
+
+3. **Calculate the Actual Sum (`actualSum`) of Numbers in the Input Array:**
+   - `int actualSum = 0;`
+   - `for (int num : nums) { actualSum += num; }`
+
+4. **Return the Missing Number:**
+   - `return totalSum - actualSum;`
+   - The missing number is the difference between the total sum and the actual sum of the numbers in the input array.
