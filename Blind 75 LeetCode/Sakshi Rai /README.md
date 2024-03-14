@@ -9,7 +9,7 @@
 | 7         | Find Minimum in Rotated Sorted Array               | [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/minimum%20in%20rotated%20sorted%20array/code.cpp)            |       262               | ✅ solved  |
 | 8         | Search in Rotated Sorted Array                     | [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/Search%20in%20rotated%20sorted%20array/code.cpp)         |        276              | ✅ solved  |
 | 9         | 3 Sum                                              |  [solution](https://github.com/Sakshirai55555555555/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Sakshi%20Rai%20/3Sum/code.cpp)           |   323                   | ✅ solved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved   |
+| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
 | 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
 | 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
 | 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
