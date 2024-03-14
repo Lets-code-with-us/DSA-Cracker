@@ -4,23 +4,23 @@
 | 2         | Best Time to Buy and Sell Stock                   |     [solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Buy%20and%20Sell%20Stock)        |     124                 |✅ solved  |
 | 3         | Contains Duplicate                                | [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/contain%20duplicates)            |         142             | ✅ solved  |
 | 4         | Product of Array Except Self                       | [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/product_of_all_except_self)            |     154                 | ✅ solved  |
-| 5         | Maximum Subarray                                   |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Maximum%20Subarray)          |                      | ✅ solved   |
-| 6         | Maximum Product Subarray                           |  [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/max_product_subarray)         |                      | ✅ solved  |
-| 7         | Find Minimum in Rotated Sorted Array               |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/min_in_rotated_array)        |                      | ✅ solved  |
-| 8         | Search in Rotated Sorted Array                     |    [Solution]         |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Three%20Sum)      |                      | ✅ solved  |
-| 10        | Container With Most Water                          |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/container_with_most_water)         |                      | ✅ solved  |
-| 11        | Sum of Two Integers                                |     [Solution]        |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |     [Solution]        |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
+| 5         | Maximum Subarray                                   |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Maximum%20Subarray)          |      359                 | ✅ solved   |
+| 6         | Maximum Product Subarray                           |  [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/max_product_subarray)         |      359                 | ✅ solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/min_in_rotated_array)        |        359               | ✅ solved  |
+| 8         | Search in Rotated Sorted Array                     |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/search_in_the_rotated_array)        |                      | ✅ solved  |
+| 9         | 3 Sum                                              |    [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Three%20Sum)      |       359                | ✅ solved  |
+| 10        | Container With Most Water                          |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/container_with_most_water)         |       359                | ✅ solved  |
+| 11        | Sum of Two Integers                                |     [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Sum_of_two_integers)        |                      | ✅ solved  |
+| 12        | Number of 1 Bits                                   |     [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/no._of_1_bits)      |                      | ✅ solved  |
+| 13        | Counting Bits                                      |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/counting_bits)          |                      | ✅ solved  |
+| 14        | Missing Number                                     |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/missing_number)          |                      | ✅ solved  |
+| 15        | Reverse Bits                                       |   [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/reverse_bits)          |                      | ✅ solved  |
+| 16        | Climbing Stairs                                    |  [Solution](https://github.com/himanshukhurana2324/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himanshu%20Khurana/Climbing_Stairs)          |                      | ✅ solved |
+| 17        | Coin Change                                        |            |                      | ❓ Unsolved  |
 | 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
+| 19        | Longest Common Subsequence                         |            |                      | ❓ Unsolved  |
+| 20        | Word Break Problem                                 |           |                      | ❓ Unsolved  |
+| 21        | Combination Sum                                    |            |                      | ❓ Unsolved  |
 | 22        | House Robber                                       |             |                      | ❓ Unsolved  |
 | 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
 | 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
