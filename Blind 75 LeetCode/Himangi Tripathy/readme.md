@@ -4,37 +4,37 @@ Blind 75 LeetCode Challenge
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |    [Solution](https://github.com/Lets-code-with-us/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Two%20Sum)         |      33                | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Best%20Time%20to%20Buy%20and%20Sell)           |         61             | solved  |
-| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |             84         | solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
-| 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
-| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
-| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
-| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
-| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
+| 3         | Contains Duplicate                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Contains%20Duplicate)            |           84           | solved  |
+| 4         | Product of Array Except Self                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/ProductofArrayExceptSelf)            |  103                    | solved  |
+| 5         | Maximum Subarray                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Subarray)           |   120                   | solved  |
+| 6         | Maximum Product Subarray                           |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Maximum%20Product%20Subarray)           | 133                     | solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Find%20Minimumin%20Rotated%20Sorted%20Array)             |          150            | solved  |
+| 8         | Search in Rotated Sorted Array                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Search%20in%20Rotated%20Sorted%20Array)            |          168            | solved  |
+| 9         | 3 Sum                                              | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/3%20Sum)            |     175               | solved  |
+| 10        | Container With Most Water                          | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Container%20With%20Most%20Water)            |       191               | solved  |
+| 11        | Sum of Two Integers                                | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Sum%20of%20Two%20Integers)            |            201          | solved  |
+| 12        | Number of 1 Bits                                   |  [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Number%20of%201%20Bits)           |   211                   | solved  |
+| 13        | Counting Bits                                      | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Counting%20Bits)            |     229                 | solved     |
+| 14        | Missing Number                                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Missing%20Number)            |    239                  | solved  |
+| 15        | Reverse Bits                                       | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Reverse%20Bits)            |      249                | solved  |
+| 16        | Climbing Stairs                                    | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Climbing%20Stairs)            |   265                   | solved  |
+| 17        | Coin Change                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Coin%20Change)            |  275                    | solved  |
+| 18        | Longest Increasing Subsequence                     | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Increasing%20Subsequence)            |      282                | solved  |
+| 19        | Longest Common Subsequence                         |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Common%20Subsequence)             |               290       | solved  |
+| 20        | Word Break Problem                                 | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Word%20Break)            |      298                | solved  |
+| 21        | Combination Sum                                    |   [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Combination%20Sum)          |    305                  | solved  |
+| 22        | House Robber                                       |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/House%20Robber)             |     311                 | solved  |
+| 23        | House Robber II                                    |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/House%20Robber%20II)             |                 317     | solved  |
+| 24        | Decode Ways                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Decode%20Ways)            |    328                  | solved  |
+| 25        | Unique Paths                                       |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Unique%20Paths)             |     332                 | solved  |
+| 26        | Jump Game                                          |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Jump%20Game)             |       340               | solved  |
+| 27        | Clone Graph                                        | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Clone%20Graph)            |    346                  | solved  |
+| 28        | Course Schedule                                    |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Course%20Schedule)             |       355               | solved  |
+| 29        | Pacific Atlantic Water Flow                        |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Pacific%20Atlantic%20Water%20Flow)             |       364               | solved  |
+| 30        | Number of Islands                                  | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Number%20of%20Islands)            |   371                   | solved  |
+| 31        | Longest Consecutive Sequence                        |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Longest%20Consecutive%20Sequence)             |        389              | solved  |
+| 32        | Course Schedule II                                 | [Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Course%20Schedule%20II)            |           393           | solved  |
+| 33        | Minimum Height Trees                                |[Solution](https://github.com/H1mang1/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Himangi%20Tripathy/Minimum%20Height%20Trees)             |                      | solved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |

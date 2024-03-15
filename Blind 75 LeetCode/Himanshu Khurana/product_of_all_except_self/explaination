@@ -1,0 +1,4 @@
+Here :
+  we are creating two arrays named L & R .
+  in the left array we are entering the product of the all the values to the left to the the iterative value and respectively the right values to the R array
+  and at the end we are calculating the final answers to the answer array

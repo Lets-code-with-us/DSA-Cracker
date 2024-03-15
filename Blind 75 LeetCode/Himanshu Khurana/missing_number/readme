@@ -1,0 +1,14 @@
+This Java code defines a class `Solution` with a method `missingNumber` to find the missing number in an array of integers. It provides three different implementations with different time complexities:
+
+1. **O(nlogn) Time Complexity:**
+   - This implementation sorts the input array `nums`.
+   - Then, it iterates through the sorted array and checks if the value at index `i` is equal to `i`.
+   - If a mismatch is found, it returns the index `i`, which indicates the missing number.
+   - If no mismatch is found, it means the missing number is the next consecutive integer after the last element in the array.
+   
+2. **O(n) Time Complexity:**
+   - This implementation calculates the expected sum of numbers from 0 to `n` using the formula `nums.length * (nums.length + 1) / 2`, where `nums.length` represents the length of the input array.
+   - It calculates the actual sum of the numbers in the input array.
+   - Then, it returns the difference between the expected sum and the actual sum, which represents the missing number.
+
+Each implementation solves the problem differently but aims to find the missing number efficiently. The choice between them depends on the specific requirements, particularly on whether time complexity needs to be optimized.

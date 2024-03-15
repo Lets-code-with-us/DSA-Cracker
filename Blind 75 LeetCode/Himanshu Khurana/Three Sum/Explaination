@@ -1,0 +1,27 @@
+This code is an implementation of the three-sum problem solution using a two-pointer approach. Here's a breakdown of each part:
+
+1. `Arrays.sort(nums);`: This line sorts the input array `nums` in ascending order. Sorting the array makes it easier to find triplets efficiently.
+
+2. `List<List<Integer>> result = new ArrayList<>();`: This line initializes a list to store the triplets that sum up to zero.
+
+3. The main loop iterates through the sorted array `nums` up to the second-to-last element (`nums.length - 2`). This loop is the primary part of the three-sum algorithm.
+
+4. `if (nums[i] > 0) { break; }`: This condition checks if the current element is positive. If it is, it breaks out of the loop since it's impossible to find a triplet that sums up to zero when the current element is positive.
+
+5. `int target = -nums[i];`: This line calculates the target sum for the remaining two elements. Since the array is sorted, finding the remaining two elements that sum up to `-nums[i]` is equivalent to finding a pair that sums up to `nums[i]`.
+
+6. `int left = i + 1;` and `int right = nums.length - 1;`: These lines initialize two pointers, `left` and `right`, to the next element and the last element of the array, respectively.
+
+7. `while (left < right) {`: This loop continues as long as `left` pointer is less than `right` pointer.
+
+8. Inside the loop:
+   - `int sum = nums[left] + nums[right];`: Calculates the sum of the elements pointed by `left` and `right`.
+   - If `sum == target`, it means we found a triplet that sums up to zero. We add this triplet to the `result` list.
+   - If `sum < target`, we increment `left` pointer, moving towards larger values.
+   - If `sum > target`, we decrement `right` pointer, moving towards smaller values.
+
+9. The nested `if` condition with `if (i == 0 || nums[i] != nums[i - 1])` ensures that we ignore duplicates for the first element.
+
+10. Inside the loop, after finding a triplet, there are further checks (`while` loops) to skip the same second and third numbers to avoid duplicate triplets.
+
+11. Finally, the `result` list containing all the unique triplets is returned.
