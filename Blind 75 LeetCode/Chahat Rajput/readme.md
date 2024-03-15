@@ -40,7 +40,7 @@
 | 38        | Sequential Digits                                   |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Sequential_digits/sequential.cpp)            |     419                 | ✅Solved  |
 | 39        | Kth Smallest Element in a BST                      | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Kth%20Smallest%20Element%20in%20BST/bst.cpp)            |       423               |  ✅Solved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Lowest%20Common%20Ancestor/LCA.cpp)            |     426               | ✅Solved  |
-| 41        | Implement Trie (Prefix Tree)                       |             |                      | ❓ Unsolved  |
+| 41        | Implement Trie (Prefix Tree)                       |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Implement%20Trie/trie.cpp)             |           432           | ✅Solved  |
 | 42        | Design Add and Search Words Data Structure          |             |                      | ❓ Unsolved  |
 | 43        | Word Search II                                      |             |                      | ❓ Unsolved  |
 | 44        | Merge k Sorted Lists                                |             |                      | ❓ Unsolved  |
