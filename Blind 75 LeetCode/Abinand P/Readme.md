@@ -37,7 +37,7 @@
 | 35        | Insert Interval                                     | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Insert%20Interval)            |                      | ✅solved  |
 | 36        | Merge Intervals                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merger%20Intervals)            |             #430         | ✅solved  |
 | 37        | Non-overlapping Intervals                           | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Non-overlapping%20intervals)            |       #430               | ✅solved  |
-| 38        | Sequential Digits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sequential%20Digits)            |                      | ✅solved  |
+| 38        | Sequential Digits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sequential%20Digits)            |           #433           | ✅solved  |
 | 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |             |                      | ❓ Unsolved  |
 | 41        | Implement Trie (Prefix Tree)                       |             |                      | ❓ Unsolved  |
