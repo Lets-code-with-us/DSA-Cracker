@@ -32,7 +32,7 @@
 | 30        | Number of Islands                                  |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Number%20of%20Islands)         |          421            | ✅ Solved  |
 | 31        | Longest Consecutive Sequence                        |      [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Consecutive%20Sequence)       |         431             | ✅ Solved  |
 | 32        | Course Schedule II                                 |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Course%20Schedule%20II)        |         427             | ✅ Solved |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
+| 33        | Minimum Height Trees                                |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Minimum%20Height%20Trees)        |            434          | ✅ Solved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
 | 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
 | 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
