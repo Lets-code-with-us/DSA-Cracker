@@ -41,8 +41,8 @@
 | 39        | Kth Smallest Element in a BST                      | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Kth%20Smallest%20Element%20in%20BST/bst.cpp)            |       423               |  ✅Solved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Lowest%20Common%20Ancestor/LCA.cpp)            |     426               | ✅Solved  |
 | 41        | Implement Trie (Prefix Tree)                       |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Implement%20Trie/trie.cpp)             |           432           | ✅Solved  |
-| 42        | Design Add and Search Words Data Structure          |             |                      | ❓ Unsolved  |
-| 43        | Word Search II                                      |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Word%20Search-II/word_search2.cpp)            |       432               | ✅Solved  |
+| 42        | Design Add and Search Words Data Structure          | [Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Design%20Add%20and%20Search%20Words%20Data%20Structure/ds.cpp)            |   435                   | ✅Solved  |
+| 43        | Word Search II                                      |[Solution](https://github.com/ChahatRajput1/DSA-Cracker/blob/main/Blind%2075%20LeetCode/Chahat%20Rajput/Word%20Search-II/word_search2.cpp)            |       435              | ✅Solved  |
 | 44        | Merge k Sorted Lists                                |             |                      | ❓ Unsolved  |
 | 45        | Top K Frequent Elements                              |             |                      | ❓ Unsolved  |
 | 46        | Find Median from Data Stream                        |             |                      | ❓ Unsolved  |
