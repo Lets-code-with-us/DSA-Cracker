@@ -1,43 +1,43 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
 |-----------|----------------------------------------------------|-------------|----------------------|-------------|
 | 1         | Two Sum                                            |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Two%20Sum)             | # 81                     | ✅solved  |
-| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |                      |✅ Solved  |
-| 3         | Contains Duplicate                                |             |                      | ❓ Unsolved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
-| 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
-| 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
-| 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
-| 11        | Sum of Two Integers                                |             |                      | ❓ Unsolved  |
-| 12        | Number of 1 Bits                                   |             |                      | ❓ Unsolved  |
-| 13        | Counting Bits                                      |             |                      | ❓ Unsolved  |
-| 14        | Missing Number                                     |             |                      | ❓ Unsolved  |
-| 15        | Reverse Bits                                       |             |                      | ❓ Unsolved  |
-| 16        | Climbing Stairs                                    |             |                      | ❓ Unsolved  |
-| 17        | Coin Change                                        |             |                      | ❓ Unsolved  |
-| 18        | Longest Increasing Subsequence                     |             |                      | ❓ Unsolved  |
-| 19        | Longest Common Subsequence                         |             |                      | ❓ Unsolved  |
-| 20        | Word Break Problem                                 |             |                      | ❓ Unsolved  |
-| 21        | Combination Sum                                    |             |                      | ❓ Unsolved  |
-| 22        | House Robber                                       |             |                      | ❓ Unsolved  |
-| 23        | House Robber II                                    |             |                      | ❓ Unsolved  |
-| 24        | Decode Ways                                        |             |                      | ❓ Unsolved  |
-| 25        | Unique Paths                                       |             |                      | ❓ Unsolved  |
-| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
-| 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
-| 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
-| 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
-| 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
-| 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
-| 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
-| 35        | Insert Interval                                     |             |                      | ❓ Unsolved  |
-| 36        | Merge Intervals                                     |             |                      | ❓ Unsolved  |
-| 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
-| 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
+| 2         | Best Time to Buy and Sell Stock                   |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Best%20time%20to%20buy%20and%20Sell)             |     #101                 |✅ Solved  |
+| 3         | Contains Duplicate                                |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Contains%20Duplicate)           |  #123                    | ✅ Solved  |
+| 4         | Product of Array Except Self                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Product%20of%20Array%20Except%20Self)            |     #136                 | ✅ Solved  |
+| 5         | Maximum Subarray                                   | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Maximum%20subarray)            |    #153                  | ✅solved  |
+| 6         | Maximum Product Subarray                           |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/maximum%20product%20subarray)             |  #157                    | ✅solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20minimum%20in%20rotated%20array)           | #181                     |✅ solved  |
+| 8         | Search in Rotated Sorted Array                     |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Search%20in%20rotated%20array)             | #192                     | ✅solved  |
+| 9         | 3 Sum                                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/3sum)             |          #204            | ✅solved  |
+| 10        | Container With Most Water                          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Container%20With%20most%20water)             |    #213                  |  ✅solved  |
+| 11        | Sum of Two Integers                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sum%20of%20Two%20integers)             |    #228                  | ✅solved  |
+| 12        | Number of 1 Bits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%201%20bits%20)            |      #244        | ✅solved  |
+| 13        | Counting Bits                                      |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Counting%20bits)           |       #237                    | ✅solved  |
+| 14        | Missing Number                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Missing%20number)            |        #261          | ✅solved  |
+| 15        | Reverse Bits                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reverse%20Bits)            |  #271                    | ✅solved  |
+| 16        | Climbing Stairs                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Climbing%20Stairs)             |         #280            | ✅solved  |
+| 17        | Coin Change                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/coin%20change)            |       #292               | ✅Solved  |
+| 18        | Longest Increasing Subsequence                     |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20increasing%20subsequence.)             |   #297                   | ✅solved  |
+| 19        | Longest Common Subsequence                         | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20common%20subsequence)            |      #304                | ✅solved  |
+| 20        | Word Break Problem                                 | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Break)            |         #312             | ✅solved  |
+| 21        | Combination Sum                                    |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Combination%20Sum)             |      #312                | ✅solved  |
+| 22        | House Robber                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robbed)            |      #324                | ✅solved  |
+| 23        | House Robber II                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/House%20Robber%20II)            |      #331                |✅solved  |
+| 24        | Decode Ways                                        |[link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Decode%20Ways)             |         #349             | ✅solved  |
+| 25        | Unique Paths                                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Unique%20Paths)             |         #354             |✅solved  |
+| 26        | Jump Game                                          | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Jump%20Game)            |          #367            | ✅solved  |
+| 27        | Clone Graph                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Clone%20Graph)            |       #376               | ✅solved  |
+| 28        | Course Schedule                                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule)            |      #378                | ✅solved  |
+| 29        | Pacific Atlantic Water Flow                        |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Pacific%20Atlantic%20Water%20Flow)             |      #384                |✅solved  |
+| 30        | Number of Islands                                  | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Number%20of%20Islands)            |            #391          | ✅solved  |
+| 31        | Longest Consecutive Sequence                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Longest%20Consecutive%20Sequence)            |        #398              | ✅solved  |
+| 32        | Course Schedule II                                 |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Course%20Schedule%20II)             |          #412            | ✅solved  |
+| 33        | Minimum Height Trees                                | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Minimum%20Height%20Trees)            |    #413                  | ✅solved  |
+| 34        | Reconstruct Itinerary                               | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reconstruct%20Itinerary)            |            #419          | ✅solved  |
+| 35        | Insert Interval                                     | [link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Insert%20Interval)            |                      | ✅solved  |
+| 36        | Merge Intervals                                     | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merger%20Intervals)            |             #430         | ✅solved  |
+| 37        | Non-overlapping Intervals                           | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Non-overlapping%20intervals)            |       #430               | ✅solved  |
+| 38        | Sequential Digits                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Sequential%20Digits)            |           #433           | ✅solved  |
 | 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |             |                      | ❓ Unsolved  |
 | 41        | Implement Trie (Prefix Tree)                       |             |                      | ❓ Unsolved  |

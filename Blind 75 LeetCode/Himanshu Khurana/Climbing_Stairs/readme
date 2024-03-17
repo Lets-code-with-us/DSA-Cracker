@@ -1,0 +1,10 @@
+This Java code implements a solution to the "Climbing Stairs" problem. The problem statement involves finding the number of distinct ways to climb to the top of a staircase with n steps. 
+
+Explanation:
+- The `climbStairs` method takes an integer `n` representing the number of stairs to climb.
+- If `n` is less than or equal to 0, it returns 0 (there are no steps to climb).
+- If `n` is 1, it returns 1 (there is only one way to climb one step).
+- Otherwise, it initializes an array `steps` of size `n + 1` to store the number of ways to climb each step.
+- It sets `steps[0]` and `steps[1]` to 1 because there is only one way to climb 0 or 1 step.
+- Then, it iterates from 2 to `n`, calculating the number of ways to climb each step by summing up the ways to reach the previous two steps (`steps[i - 1]` and `steps[i - 2]`).
+- Finally, it returns the value stored in `steps[n]`, which represents the number of ways to climb `n` steps.

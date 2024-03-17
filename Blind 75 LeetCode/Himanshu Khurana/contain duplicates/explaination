@@ -1,0 +1,1 @@
+Here using the hashmaps i have compared all the values in the nums array to the one containing in the hashmap is and if it doesnt match the available values in the hashmap it considers it as a new distinct value add it to the map. 

@@ -1,0 +1,22 @@
+This code implements a solution to the "Container With Most Water" problem using a two-pointer approach. Here's a breakdown of each part:
+
+1. `public static int maxArea(int[] height)`: This method takes an array `height` representing the heights of the vertical lines of the containers and returns the maximum area of water that can be contained between two lines.
+
+2. `int maxWater = 0;`, `int left = 0;`, `int right = height.length - 1;`: These variables are initialized to keep track of the maximum water, and two pointers (`left` and `right`) are set at the start and end of the array, respectively.
+
+3. The `while` loop (`while (left < right)`) continues until the `left` pointer is less than the `right` pointer.
+
+4. Inside the loop:
+   - `int width = right - left;`: Calculates the width of the container, which is the difference between the `right` and `left` pointers.
+   - `int containerHeight = Math.min(height[left], height[right]);`: Calculates the height of the container by taking the minimum height between the lines at `left` and `right`.
+   - `int area = width * containerHeight;`: Calculates the area of the container using the width and height.
+   - `maxWater = Math.max(maxWater, area);`: Updates the maximum water if the current area is greater than the previous maximum.
+   - The pointers are then moved inward based on the condition: if the height at `left` is less than the height at `right`, `left` is incremented; otherwise, `right` is decremented.
+
+5. The method returns `maxWater`, which represents the maximum area of water that can be contained between two lines.
+
+6. `public static void main(String[] args)`: The main method where examples are provided to demonstrate the functionality of the `maxArea` method.
+
+7. Two arrays `heights1` and `heights2` are defined to represent different sets of line heights.
+
+8. `maxArea` method is called for both arrays, and the results are printed to the console.
