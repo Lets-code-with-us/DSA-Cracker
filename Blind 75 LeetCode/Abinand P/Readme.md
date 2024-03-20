@@ -41,7 +41,7 @@
 | 39        | Kth Smallest Element in a BST                      | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Kth%20Smallest%20Element%20in%20BST)            |       #437               | ✅solved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)            |     #438                 | ✅solved  |
 | 41        | Implement Trie (Prefix Tree)                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Implement%20Trie)             |              #441        | ✅solved  |
-| 42        | Design Add and Search Words Data Structure          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Design%20Add%20and%20Search%20words%20Data%20Structure)             |                      | ✅solved  |
+| 42        | Design Add and Search Words Data Structure          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Design%20Add%20and%20Search%20words%20Data%20Structure)             |      #444                | ✅solved  |
 | 43        | Word Search II                                      |             |                      | ❓ Unsolved  |
 | 44        | Merge k Sorted Lists                                |             |                      | ❓ Unsolved  |
 | 45        | Top K Frequent Elements                              |             |                      | ❓ Unsolved  |
