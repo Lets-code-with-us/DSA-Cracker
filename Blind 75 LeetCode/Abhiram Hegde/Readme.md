@@ -36,7 +36,7 @@
 | 34        | Reconstruct Itinerary                               |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Reconstruct%20Itinerary)        |         436             | ✅ Solved  |
 | 35        | Insert Interval                                     |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Insert%20Interval)         |         439             | ✅ Solved  |
 | 36        | Merge Intervals                                     |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Merge%20Intervals)        |            442          |  ✅ Solved  |
-| 37        | Non-overlapping Intervals                           |             |                      | ❓ Unsolved  |
+| 37        | Non-overlapping Intervals                           |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Non-overlapping%20Intervals)         |        443              | ✅ Solved  |
 | 38        | Sequential Digits                                   |             |                      | ❓ Unsolved  |
 | 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |             |                      | ❓ Unsolved  |
