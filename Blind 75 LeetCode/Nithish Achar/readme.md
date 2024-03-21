@@ -25,7 +25,7 @@
 | 23        | House Robber II                                    |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                                     | 406                     | ✅solved  |
 | 24        | Decode Ways                                        | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                      | 440                     |✅solved  |
 | 25        | Unique Paths                                       |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                    |  445                    |✅solved  |
-| 26        | Jump Game                                          |             |                      | ❓ Unsolved  |
+| 26        | Jump Game                                          | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)             |       448               |✅solved  |
 | 27        | Clone Graph                                        |             |                      | ❓ Unsolved  |
 | 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
