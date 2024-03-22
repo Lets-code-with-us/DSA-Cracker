@@ -38,7 +38,7 @@
 | 36        | Merge Intervals                                     |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Merge%20Intervals)        |            442          |  ✅ Solved  |
 | 37        | Non-overlapping Intervals                           |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Non-overlapping%20Intervals)         |        443              | ✅ Solved  |
 | 38        | Sequential Digits                                   |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Sequential%20Digits)        |            447          | ✅ Solved  |
-| 39        | Kth Smallest Element in a BST                      |             |                      | ❓ Unsolved  |
+| 39        | Kth Smallest Element in a BST                      |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Kth%20Smallest%20Element%20in%20a%20BST)         |         449             | ✅ Solved  |
 | 40        | Lowest Common Ancestor of a Binary Search Tree      |             |                      | ❓ Unsolved  |
 | 41        | Implement Trie (Prefix Tree)                       |             |                      | ❓ Unsolved  |
 | 42        | Design Add and Search Words Data Structure          |             |                      | ❓ Unsolved  |
