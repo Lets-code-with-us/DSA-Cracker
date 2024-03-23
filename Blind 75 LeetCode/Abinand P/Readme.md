@@ -43,8 +43,8 @@
 | 41        | Implement Trie (Prefix Tree)                       |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Implement%20Trie)             |              #441        | ✅solved  |
 | 42        | Design Add and Search Words Data Structure          |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Design%20Add%20and%20Search%20words%20Data%20Structure)             |      #444                | ✅solved  |
 | 43        | Word Search II                                      | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Search%20II)            |     #446                 | ✅solved  |
-| 44        | Merge k Sorted Lists                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merge%20K%20List%20)            |                      | ✅solved  |
-| 45        | Top K Frequent Elements                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Top%20K%20Frequency%20Elements%20)             |                      | ✅solved  |
+| 44        | Merge k Sorted Lists                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merge%20K%20List%20)            |       #451               | ✅solved  |
+| 45        | Top K Frequent Elements                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Top%20K%20Frequency%20Elements%20)             |      #451                | ✅solved  |
 | 46        | Find Median from Data Stream                        |             |                      | ❓ Unsolved  |
 | 47        | Reverse a Linked List                               |             |                      | ❓ Unsolved  |
 | 48        | Detect Cycle in a Linked List                       |             |                      | ❓ Unsolved  |
