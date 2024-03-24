@@ -45,7 +45,7 @@
 | 43        | Word Search II                                      | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Search%20II)            |     #446                 | ✅solved  |
 | 44        | Merge k Sorted Lists                                |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merge%20K%20List%20)            |       #451               | ✅solved  |
 | 45        | Top K Frequent Elements                              |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Top%20K%20Frequency%20Elements%20)             |      #451                | ✅solved  |
-| 46        | Find Median from Data Stream                        |             |                      | ❓ Unsolved  |
+| 46        | Find Median from Data Stream                        |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20Median%20From%20Data%20Stream)           |       #453               | ✅solved  |
 | 47        | Reverse a Linked List                               |             |                      | ❓ Unsolved  |
 | 48        | Detect Cycle in a Linked List                       |             |                      | ❓ Unsolved  |
 | 49        | Merge Two Sorted Lists                              |             |                      | ❓ Unsolved  |
