@@ -27,7 +27,7 @@
 | 25        | Unique Paths                                       |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                    |  445                    |✅solved  |
 | 26        | Jump Game                                          | [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                 |       448               |✅solved  |
 | 27        | Clone Graph                                        |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                 | 450                     | ✅solved  |
-| 28        | Course Schedule                                    |             |                      | ❓ Unsolved  |
+| 28        | Course Schedule                                    |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                 |   455                   | ✅solved  |
 | 29        | Pacific Atlantic Water Flow                        |             |                      | ❓ Unsolved  |
 | 30        | Number of Islands                                  |             |                      | ❓ Unsolved  |
 | 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
