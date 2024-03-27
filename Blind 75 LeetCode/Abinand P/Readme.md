@@ -48,7 +48,7 @@
 | 46        | Find Median from Data Stream                        |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Find%20Median%20From%20Data%20Stream)           |       #453               | ✅solved  |
 | 47        | Reverse a Linked List                               |[Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reverse%20Linked%20List)             |          #457            | ✅solved  |
 | 48        | Detect Cycle in a Linked List                       |  [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Linked%20List%20Cycle)           |         #458             | ✅solved  |
-| 49        | Merge Two Sorted Lists                              |             |                      | ❓ Unsolved  |
+| 49        | Merge Two Sorted Lists                              | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merge%20Two%20Sorted%20List)            |         #459             | ✅solved  |
 | 50        | Merge K Sorted Lists                                |             |                      | ❓ Unsolved  |
 | 51        | Remove Nth Node From End Of List                    |             |                      | ❓ Unsolved  |
 | 52        | Reorder List                                        |             |                      | ❓ Unsolved  |
