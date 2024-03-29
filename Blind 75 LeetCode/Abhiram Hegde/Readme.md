@@ -43,7 +43,7 @@
 | 41        | Implement Trie (Prefix Tree)                       |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Implement%20Trie%20(Prefix%20Tree))        |      454            | ✅ Solved  |
 | 42        | Design Add and Search Words Data Structure          |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Design%20Add%20and%20Search%20Words%20Data%20Structure)          |       456               | ✅ Solved  |
 | 43        | Word Search II                                      |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Word%20Search%20II)          |              460        | ✅ Solved  |
-| 44        | Merge k Sorted Lists                                |             |                      | ❓ Unsolved  |
+| 44        | Merge k Sorted Lists                                |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Merge%20k%20Sorted%20Lists)          |       462           | ✅ Solved  |
 | 45        | Top K Frequent Elements                              |             |                      | ❓ Unsolved  |
 | 46        | Find Median from Data Stream                        |             |                      | ❓ Unsolved  |
 | 47        | Reverse a Linked List                               |             |                      | ❓ Unsolved  |
