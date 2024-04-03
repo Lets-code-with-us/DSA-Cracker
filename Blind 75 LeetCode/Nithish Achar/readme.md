@@ -30,7 +30,7 @@
 | 28        | Course Schedule                                    |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                 |   455                   | ✅solved  |
 | 29        | Pacific Atlantic Water Flow                        |   [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)                 |    461             |✅solved  |
 | 30        | Number of Islands                                  |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)               |    466                  |✅solved  |
-| 31        | Longest Consecutive Sequence                        |             |                      | ❓ Unsolved  |
+| 31        | Longest Consecutive Sequence                        |  [source code](https://github.com/Dev-Nithish/DSA-Cracker/tree/contains-duplicate/Blind%2075%20LeetCode/Nithish%20Achar)               |       472               | ✅solved  |
 | 32        | Course Schedule II                                 |             |                      | ❓ Unsolved  |
 | 33        | Minimum Height Trees                                |             |                      | ❓ Unsolved  |
 | 34        | Reconstruct Itinerary                               |             |                      | ❓ Unsolved  |
