@@ -50,7 +50,7 @@
 | 48        | Detect Cycle in a Linked List                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Linked%20List%20Cycle)          |         470             | ✅ Solved  |
 | 49        | Merge Two Sorted Lists                              |  [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Merge%20Two%20Sorted%20Lists)           |      471              | ✅ Solved  |
 | 50        | Merge K Sorted Lists                                |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Merge%20k%20Sorted%20Lists(2))          |           473        | ✅ Solved  |
-| 51        | Remove Nth Node From End Of List                    |             |                      | ❓ Unsolved  |
+| 51        | Remove Nth Node From End Of List                    |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Remove%20Nth%20Node%20from%20End%20of%20List)          |          474            | ✅ Solved  |
 | 52        | Reorder List                                        |             |                      | ❓ Unsolved  |
 | 53        | Set Matrix Zeroes                                   |             |                      | ❓ Unsolved  |
 | 54        | Spiral Matrix                                       |             |                      | ❓ Unsolved  |
