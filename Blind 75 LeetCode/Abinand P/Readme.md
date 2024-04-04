@@ -51,7 +51,7 @@
 | 49        | Merge Two Sorted Lists                              | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Merge%20Two%20Sorted%20List)            |         #459             | ✅solved  |
 | 50        | Merge K Sorted Lists                                | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/50.%20Merge%20K%20Sorted%20Lists)            |        #464              | ✅solved  |
 | 51        | Remove Nth Node From End Of List                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Remove%20Nth%20Node%20from%20End%20of%20the%20List)            |       #468               | ✅solved  |
-| 52        | Reorder List                                        |             |                      | ❓ Unsolved  |
+| 52        | Reorder List                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reorder%20List)            |                      | ✅solved  |
 | 53        | Set Matrix Zeroes                                   |             |                      | ❓ Unsolved  |
 | 54        | Spiral Matrix                                       |             |                      | ❓ Unsolved  |
 | 55        | Rotate Image                                        |             |                      | ❓ Unsolved  |
