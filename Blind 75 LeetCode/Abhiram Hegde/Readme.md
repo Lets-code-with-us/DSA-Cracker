@@ -56,7 +56,7 @@
 | 54        | Spiral Matrix                                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Spiral%20Matrix)          |          479            | ✅ Solved  |
 | 55        | Rotate Image                                        |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Rotate%20Image)          |           480           | ✅ Solved  |
 | 56        | Word Search                                         |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Word%20Search)         |         481             | ✅ Solved  |
-| 57        | Longest Substring Without Repeating Characters     |             |                      | ❓ Unsolved  |
+| 57        | Longest Substring Without Repeating Characters     |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Substring%20Without%20Repeating%20Characters) |        482            | ✅ Solved  |
 | 58        | Longest Repeating Character Replacement              |             |                      | ❓ Unsolved  |
 | 59        | Minimum Window Substring                            |             |                      | ❓ Unsolved  |
 | 60        | Valid Anagram                                       |             |                      | ❓ Unsolved  |
