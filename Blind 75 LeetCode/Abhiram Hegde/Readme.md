@@ -57,7 +57,7 @@
 | 55        | Rotate Image                                        |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Rotate%20Image)          |           480           | ✅ Solved  |
 | 56        | Word Search                                         |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Word%20Search)         |         481             | ✅ Solved  |
 | 57        | Longest Substring Without Repeating Characters     |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Substring%20Without%20Repeating%20Characters) |        482            | ✅ Solved  |
-| 58        | Longest Repeating Character Replacement              |             |                      | ❓ Unsolved  |
+| 58        | Longest Repeating Character Replacement              |  [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Repeating%20Caracter%20Replacement)           |       483             | ✅ Solved  |
 | 59        | Minimum Window Substring                            |             |                      | ❓ Unsolved  |
 | 60        | Valid Anagram                                       |             |                      | ❓ Unsolved  |
 | 61        | Group Anagrams                                      |             |                      | ❓ Unsolved  |
