@@ -60,7 +60,7 @@
 | 58        | Longest Repeating Character Replacement              |  [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Repeating%20Caracter%20Replacement)           |       483             | ✅ Solved  |
 | 59        | Minimum Window Substring                            |     [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Minimum%20Window%20Substring)        |          484            | ✅ Solved  |
 | 60        | Valid Anagram                                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Valid%20Anagram)          |        485              | ✅ Solved  |
-| 61        | Group Anagrams                                      |             |                      | ❓ Unsolved  |
+| 61        | Group Anagrams                                      |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Group%20Anagrams)         |           486           | ✅ Solved  |
 | 62        | Valid Parentheses                                   |             |                      | ❓ Unsolved  |
 | 63        | Valid Palindrome                                    |             |                      | ❓ Unsolved  |
 | 64        | Longest Palindromic Substring                       |             |                      | ❓ Unsolved  |
