@@ -53,7 +53,7 @@
 | 51        | Remove Nth Node From End Of List                    | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Remove%20Nth%20Node%20from%20End%20of%20the%20List)            |       #468               | ✅solved  |
 | 52        | Reorder List                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reorder%20List)            |      #475                | ✅solved  |
 | 53        | Set Matrix Zeroes                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Set%20Matrix%20Zeros)            |     #477                 | ✅solved  |
-| 54        | Spiral Matrix                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Spiral%20Matrix)            |                      | ✅solved  |
+| 54        | Spiral Matrix                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Spiral%20Matrix)            |         #488             | ✅solved  |
 | 55        | Rotate Image                                        |             |                      | ❓ Unsolved  |
 | 56        | Word Search                                         |             |                      | ❓ Unsolved  |
 | 57        | Longest Substring Without Repeating Characters     |             |                      | ❓ Unsolved  |
