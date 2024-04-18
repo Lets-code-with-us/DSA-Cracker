@@ -64,7 +64,7 @@
 | 62        | Valid Parentheses                                   |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Valid%20Parentheses)         |          487            | ✅ Solved  |
 | 63        | Valid Palindrome                                    |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Valid%20Palindrome)          |         489             | ✅ Solved   |
 | 64        | Longest Palindromic Substring                       |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Longest%20Palindromic%20Substring)          |         490      | ✅ Solved  |
-| 65        | Palindromic Substrings                              |             |                      | ❓ Unsolved  |
+| 65        | Palindromic Substrings                              |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Palindrome%20Substring)          |         491          | ✅ Solved  |
 | 66        | Maximal Rectangle                                    |             |                      | ❓ Unsolved  |
 | 67        | Maximum Depth of Binary Tree                         |             |                      | ❓ Unsolved  |
 | 68        | Same Tree                                            |             |                      | ❓ Unsolved  |
