@@ -68,7 +68,7 @@
 | 66        | Maximal Rectangle                                    |  [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Maximal%20Rectangle)           |          492            | ✅ Solved  |
 | 67        | Maximum Depth of Binary Tree                         | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Maximum%20Depth%20of%20Binary%20Tree)          |       493    | ✅ Solved  |
 | 68        | Same Tree                                            | [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Same%20Tree)            |          494            | ✅ Solved  |
-| 69        | Invert/Flip Binary Tree                             |             |                      | ❓ Unsolved  |
+| 69        | Invert/Flip Binary Tree                             |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Invert%20Binary%20Tree)          |         495             | ✅ Solved  |
 | 70        | Binary Tree Maximum Path Sum                        |             |                      | ❓ Unsolved  |
 | 71        | Binary Tree Level Order Traversal                   |             |                      | ❓ Unsolved  |
 | 72        | Serialize and Deserialize Binary Tree               |             |                      | ❓ Unsolved  |
