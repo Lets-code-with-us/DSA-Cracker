@@ -71,7 +71,7 @@
 | 69        | Invert/Flip Binary Tree                             |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Invert%20Binary%20Tree)          |         495             | ✅ Solved  |
 | 70        | Binary Tree Maximum Path Sum                        |   [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Binary%20Tree%20Maximum%20Path%20Sum)          |      496      | ✅ Solved   |
 | 71        | Binary Tree Level Order Traversal                   |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Binary%20Tree%20Level%20Order%20Traversal)         |       497               | ✅ Solved |
-| 72        | Serialize and Deserialize Binary Tree               |             |                      | ❓ Unsolved  |
+| 72        | Serialize and Deserialize Binary Tree               |    [Source Code](https://github.com/abhi272003/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abhiram%20Hegde/Serialize%20and%20Deserialize%20Binary%20Tree)         |        499            | ✅ Solved  |
 | 73        | Subtree of Another Tree                             |             |                      | ❓ Unsolved  |
 | 74        | Construct Binary Tree from Preorder and Inorder Traversal |             |                      | ❓ Unsolved  |
 | 75        | Validate Binary Search Tree                         |             |                      | ❓ Unsolved  |
