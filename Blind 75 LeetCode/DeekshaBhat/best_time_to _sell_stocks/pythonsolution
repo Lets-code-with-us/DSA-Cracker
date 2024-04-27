@@ -1,0 +1,15 @@
+class Solution(object):
+    def maxProfit(self, prices):
+        if not prices:
+            return 0
+        cp=prices[0]
+        sp=prices[0]
+        max_profit=0
+        for price in prices:
+          if price < cp:
+             cp=price
+             sp=price
+          elif price > sp:
+              sp=price
+              max_profit=max(max_profit,sp-cp)
+        return max_profit
