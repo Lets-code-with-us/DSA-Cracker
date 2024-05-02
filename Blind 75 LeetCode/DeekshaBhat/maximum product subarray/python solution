@@ -1,0 +1,9 @@
+class Solution:
+    def maxProduct(self, a: List[int]) -> int:
+        m, M, result = 1, 1, -inf
+        for v in a:
+            m, M = min(M*v, m*v, v), max(M*v, m*v, v)
+            result = max(result, M)
+        
+        return result
+        
