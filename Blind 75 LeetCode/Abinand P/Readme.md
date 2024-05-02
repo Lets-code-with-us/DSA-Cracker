@@ -54,8 +54,8 @@
 | 52        | Reorder List                                        | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Reorder%20List)            |      #475                | ✅solved  |
 | 53        | Set Matrix Zeroes                                   | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Set%20Matrix%20Zeros)            |     #477                 | ✅solved  |
 | 54        | Spiral Matrix                                       | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Spiral%20Matrix)            |         #488             | ✅solved  |
-| 55        | Rotate Image                                        |             |                      | ❓ Unsolved  |
-| 56        | Word Search                                         |             |                      | ❓ Unsolved  |
+| 55        | Rotate Image                                        |     [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Rotate%20Image)        |        #510              | ✅solved  |
+| 56        | Word Search                                         | [Link](https://github.com/Abiji-2020/DSA-Cracker/tree/main/Blind%2075%20LeetCode/Abinand%20P/Word%20Search)            |        #511              | ✅solved  |
 | 57        | Longest Substring Without Repeating Characters     |             |                      | ❓ Unsolved  |
 | 58        | Longest Repeating Character Replacement              |             |                      | ❓ Unsolved  |
 | 59        | Minimum Window Substring                            |             |                      | ❓ Unsolved  |
