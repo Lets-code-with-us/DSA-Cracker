@@ -3,10 +3,10 @@
 | 1         | Two Sum                                            |             |                      | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | solved  |
 | 3         | Contains Duplicate                                |             |                      | solved  |
-| 4         | Product of Array Except Self                       |             |                      | ❓ Unsolved  |
-| 5         | Maximum Subarray                                   |             |                      | ❓ Unsolved  |
-| 6         | Maximum Product Subarray                           |             |                      | ❓ Unsolved  |
-| 7         | Find Minimum in Rotated Sorted Array               |             |                      | ❓ Unsolved  |
+| 4         | Product of Array Except Self                       |             |                      | solved  |
+| 5         | Maximum Subarray                                   |             |                      | solved  |
+| 6         | Maximum Product Subarray                           |             |                      | solved  |
+| 7         | Find Minimum in Rotated Sorted Array               |             |                      | solved  |
 | 8         | Search in Rotated Sorted Array                     |             |                      | ❓ Unsolved  |
 | 9         | 3 Sum                                              |             |                      | ❓ Unsolved  |
 | 10        | Container With Most Water                          |             |                      | ❓ Unsolved  |
