@@ -1,5 +1,5 @@
 | Serial No | Problem Name                                      | Source Code | Merged Pull Request Number | Status      |
-|-----------|----------------------------------------------------|-------------|----------------------|-------------|
+|-----------|----------------------------------------------------|-https://github.com/Deekshabhat123/DSA-Cracker/tree/main/Blind%2075%20LeetCode/DeekshaBhat/twosum------------|----------------------|-------------|
 | 1         | Two Sum                                            |             |                      | solved  |
 | 2         | Best Time to Buy and Sell Stock                   |             |                      | solved  |
 | 3         | Contains Duplicate                                |             |                      | solved  |
