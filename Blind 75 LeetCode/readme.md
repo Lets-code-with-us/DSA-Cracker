@@ -55,8 +55,7 @@ Complete the challenge and contribute for more than 72 days to enjoy the followi
 - **Certificate of Completion Recognition:**
   - Upon successfully completing the challenge and contributing for more than 72 days, participants will receive an official Certificate of Completion. This certificate highlights your dedication, perseverance, and commitment to the challenge, showcasing a valuable addition to your professional portfolio. 📜👏
 
-  - As a token of appreciation for your substantial contributions, you will be acknowledged as an Open Source Contributor. Your name will be featured on the organization's official Linkedin page and GitHub repository, recognizing your pivotal role in enhancing the project. 🌐💻
-
+  
 ### Important Note
 
 - Any contribution violating the guidelines will be marked as invalid and will not be accepted. 🚫
