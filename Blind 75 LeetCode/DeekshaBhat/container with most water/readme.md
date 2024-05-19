@@ -21,4 +21,4 @@ Otherwise, decrement the right pointer. This is because if the line at right is 
 Return the Maximum Area:
 
 Once the loop finishes, ans will contain the maximum area found, which is then returned.
-Example Walkthrough:
+
